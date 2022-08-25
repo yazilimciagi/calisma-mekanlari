@@ -14,15 +14,15 @@
     </thead>
     <tbody>
     <TR STYLE="width: 100%">
-        <TD>konum ekle</TD>
-        <TD>İsim ekle</TD>
-        <TD>Kategoriler ekle</TD>
-        <TD>Priz ekle</TD>
-        <TD>WIFI ekle</TD>
-        <TD>WIFI hızı ekle</TD>
-        <TD>Gürültü seviyesi ekle</TD>
-        <TD>Çalışma saatleri ekle</TD>
-        <TD>İnstagram ekle</TD>
+        <TD>Bostanlı İskele</TD>
+        <TD>Varuna Gezgin</TD>
+        <TD> - </TD>
+        <TD>Çoğu masada mevcut</TD>
+        <TD>Mevcut </TD>
+        <TD>40mbps</TD>
+        <TD>5/10</TD>
+        <TD>09:00 - 01:00</TD>
+        <TD>@varunagezgin</TD>
     </TR>
     </tbody>
 </table>

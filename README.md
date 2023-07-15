@@ -1,4 +1,9 @@
-# 📚 İzmir Çalışma Mekanları
+# Çalışma Mekanları
+
+Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e ekleyebilirsiniz!
+
+
+## 📚 İzmir 
 
 * 🎯 Bu reponun amacı, herkesin İzmir'de bildiği çalışma mekanlarını bir araya getirmek.
 * ➕ Eklemek istediğiniz mekanı `README.md` içinde yazınız.

@@ -25,7 +25,9 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 
 ## 📚 İstanbul 
 
--
+| Konum                       | İsim                | Kategoriler | Priz                   |   WIFI   | WIFI Hızı | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi     |
+|-----------------------------|---------------------|-------------|------------------------|----------|-----------|------------------|------------------|----------------------|
+| Galataport yanı | Astrolabe Coffee House      | -           | Duvar Kenarı, orta büyük masa     |  Mevcut  |  ? Mbps  |       3/10       |   08:00 - 23:00  | @astrolabeturkey        |
 
 
 ## 📚 Ankara 

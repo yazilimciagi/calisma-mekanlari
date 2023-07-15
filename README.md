@@ -16,6 +16,10 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 
 ## 📚 İzmir 
 
+* 🎯 Bu reponun amacı, herkesin İzmir'de bildiği çalışma mekanlarını bir araya getirmek.
+* ➕ Eklemek istediğiniz mekanı `README.md` içinde yazınız.
+* 🔄 Sonra GitHub'a `dev` branchından pushlayıp `master` a merge request açınız.
+
 | Konum                       | İsim                | Kategoriler | Priz                   |   WIFI   | WIFI Hızı | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi     |
 |-----------------------------|---------------------|-------------|------------------------|----------|-----------|------------------|------------------|----------------------|
 | Bostanlı İskele             | Varuna Gezgin       | -           | Çoğu masada mevcut     |  Mevcut  |  40 Mbps  |       5/10       |   09:00 - 01:00  | @varunagezgin        |
@@ -40,5 +44,3 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 ## 📚 Bursa 
 
 -
-
-

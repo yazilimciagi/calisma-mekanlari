@@ -25,7 +25,12 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 
 ## 📚 İstanbul 
 
--
+| Konum                       | İsim                | Kategoriler | Priz                   |   WIFI   | WIFI Hızı | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi     |
+|-----------------------------|---------------------|-------------|------------------------|----------|-----------|------------------|------------------|----------------------|
+| Yeşilköy                    | Caffè Nero          | -           | İçeride üst katta çoğunlukla |  Mevcut  |  30 Mbps  |       4/10       |   09:00 - 00:00  | @caffeneroturkiye  |
+| Beşiktaş                    | O Coffee         | -           | Sadece mekanın içerisindeki masalarda |  Mevcut  |  -  |       6/10       |   10:00 - 01:00  | @ocoffeecompany  |
+| Beşiktaş                    | Baracca Cafe        | -           | Çoğu masada mevcut |  Mevcut  |  -  |       3/10       |   08:30 - 00:30  | -  |
+| Nişantaşı                    | MOC Nişantaşı       | -           | Çoğu masada mevcut |  Mevcut  |  -  |       6/10       |   07:30 - 23:30  | @moc_coffeeofficial  |
 
 
 ## 📚 Ankara 
@@ -36,5 +41,4 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 ## 📚 Bursa 
 
 -
-
 

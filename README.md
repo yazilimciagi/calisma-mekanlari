@@ -30,7 +30,9 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 
 ## 📚 Ankara 
 
--
+| Konum   | İsim      | Kategoriler | Priz                                |   WIFI   | WIFI Hızı | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi | Notlar |
+|---------|-----------|-------------|-------------------------------------|----------|-----------|------------------|------------------|------------------|-------|
+| Bağlıca | CoffeeLog | -           | Çalışma salonunda her masada mevcut |  Mevcut  | 50 Mbps   |      3/10        | 09:00 - 23:00    | @coffeelogtr     |   Çalışma için bulunan bir katı var, buradaki bilgiler bu çalışma katına özeldir     |
 
 
 ## 📚 Bursa 

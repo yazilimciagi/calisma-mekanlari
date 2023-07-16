@@ -38,10 +38,13 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 
 ## 📚 Ankara 
 
-| Konum   | İsim      | Kategoriler | Priz                                |   WIFI   | WIFI Hızı | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi | Notlar |
-|---------|-----------|-------------|-------------------------------------|----------|-----------|------------------|------------------|------------------|-------|
-| Bağlıca | CoffeeLog | -           | Çalışma salonunda her masada mevcut |  Mevcut  | 50 Mbps   |      3/10        | 09:00 - 23:00    | @coffeelogtr     |   Çalışma için bulunan bir katı var, buradaki bilgiler bu çalışma katına özeldir     |
 
+| Konum     | İsim         | Kategoriler | Priz                                   | WIFI   | WIFI Hızı | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi           | Notlar                                                                                                                                                                                                                                                          |
+| --------- | ------------- | ----------- | -------------------------------------- | ------ | ----------- | ------------------- | ------------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bağlıca | CoffeeLog     | -           | Çalışma salonunda her masada mevcut | Mevcut | 50 Mbps     | 3/10                | 09:00 - 23:00       | @coffeelogtr               | Çalışma için bulunan bir katı var, buradaki bilgiler bu çalışma katına özeldir                                                                                                                                                                        |
+| Çayyolu  | CoffeeLab     | -           | Her masada mevcut                     | Mevcut | -           | 6/10                | 07:00 - 24:00       | @coffeelabtr               | Bahçesi oldukça büyük hava güzelse açık havada çalışmak için uygun ve prizler mevcut. Kapalı mekan alanı daha küçük. Mekanın detaylı videosu:[https://www.instagram.com/p/CusBo-6AnXi/?hl=en](https://www.instagram.com/p/CusBo-6AnXi/?hl=en) |
+| Çayyolu  | Starbucks     | -           | Çoğu masada mevcut                   | Mevcut | -           | 4/10                | 08:00 - 22:00       | @starbucks_tr              |                                                                                                                                                                                                                                                                 |
+| Çayyolu  | Eagles Coffee | -           | Çoğu masada mevcut                   | Mevcut | -           | 2/10                | 09:00 - 24:00       | @eaglescoffeeandfoodstudio | 2 katlı ve bahçeli bir mekan ikinci kat çalışmak için çok uygun.                                                                                                                                                                                         |
 
 ## 📚 Bursa 
 

@@ -16,11 +16,12 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 
 ## 📚 İzmir 
 
-| Konum                       | İsim                | Kategoriler | Priz                   |   WIFI   | WIFI Hızı | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi     |
-|-----------------------------|---------------------|-------------|------------------------|----------|-----------|------------------|------------------|----------------------|
-| Bostanlı İskele             | Varuna Gezgin       | -           | Çoğu masada mevcut     |  Mevcut  |  40 Mbps  |       5/10       |   09:00 - 01:00  | @varunagezgin        |
-| Narlıdere                   | Starbucks           | -           | Çoğu masada mevcut     |  Mevcut  |  30 Mbps  |       2/10       |   09:00 - 14:00  | @starbukcs           |
-| Narlıdere - DEU GSF Karşısı | Pablo Artisan Kafe  | -           | Duvar kenarı masalarda |  Mevcut  |  50 Mbps  |       2/10       |   09:00 - 21:00  | @pabloartisancoffee  |
+| Konum                             | İsim                | Kategoriler | Priz                   |   WIFI   |  WIFI Hızı  | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi     |
+|-----------------------------------|---------------------|-------------|------------------------|----------|-------------|------------------|------------------|----------------------|
+| Bostanlı İskele                   | Varuna Gezgin       | -           | Çoğu masada mevcut     |  Mevcut  |   40 Mbps   |       5/10       |   09:00 - 01:00  | @varunagezgin        |
+| Narlıdere                         | Starbucks           | -           | Çoğu masada mevcut     |  Mevcut  |   30 Mbps   |       2/10       |   09:00 - 14:00  | @starbucks_tr        |
+| Narlıdere - DEU GSF Karşısı       | Pablo Artisan Kafe  | -           | Duvar kenarı masalarda |  Mevcut  |   50 Mbps   |       2/10       |   09:00 - 21:00  | @pabloartisancoffee  |
+| Kıbrıs Şehitleri - Sevinç Karşısı | Starbucks           | -           | Çoğu masada mevcut     |  Mevcut  |  10-25 Mbps |       7/10       |   08:00 - 22:00  | @starbucks_tr        |
 
 
 ## 📚 İstanbul 

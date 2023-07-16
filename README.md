@@ -25,20 +25,22 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 
 ## 📚 İstanbul 
 
-| Konum                       | İsim                | Kategoriler | Priz                   |   WIFI   | WIFI Hızı | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi     |
-|-----------------------------|---------------------|-------------|------------------------|----------|-----------|------------------|------------------|----------------------|
-| Yeşilköy                    | Caffè Nero          | -           | İçeride üst katta çoğunlukla |  Mevcut  |  30 Mbps  |       4/10       |   09:00 - 00:00  | @caffeneroturkiye  |
-| Beşiktaş                    | O Coffee         | -           | Sadece mekanın içerisindeki masalarda |  Mevcut  |  -  |       6/10       |   10:00 - 01:00  | @ocoffeecompany  |
-| Beşiktaş                    | Baracca Cafe        | -           | Çoğu masada mevcut |  Mevcut  |  -  |       3/10       |   08:30 - 00:30  | -  |
-| Nişantaşı                    | MOC Nişantaşı       | -           | Çoğu masada mevcut |  Mevcut  |  -  |       6/10       |   07:30 - 23:30  | @moc_coffeeofficial  |
+| Konum                       | İsim                        | Kategoriler | Priz                                  |   WIFI   | WIFI Hızı | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi     |
+|-----------------------------|-----------------------------|-------------|---------------------------------------|----------|-----------|------------------|------------------|----------------------|
+| Yeşilköy                    | Caffè Nero                  | -           | İçeride üst katta çoğunlukla          |  Mevcut  |  30 Mbps  |       4/10       |   09:00 - 00:00  | @caffeneroturkiye    |
+| Beşiktaş                    | O Coffee                    | -           | Sadece mekanın içerisindeki masalarda |  Mevcut  |  -        |       6/10       |   10:00 - 01:00  | @ocoffeecompany      |
+| Beşiktaş                    | Baracca Cafe                | -           | Çoğu masada mevcut                    |  Mevcut  |  -        |       3/10       |   08:30 - 00:30  | -                    |
+| Nişantaşı                   | MOC Nişantaşı               | -           | Çoğu masada mevcut                    |  Mevcut  |  -        |       6/10       |   07:30 - 23:30  | @moc_coffeeofficial  |
+| Galataport yanı             | Astrolabe Coffee House      | -           | Duvar Kenarı, orta büyük masa         |  Mevcut  |  ? Mbps   |       3/10       |   08:00 - 23:00  | @astrolabeturkey     |
 
 
 ## 📚 Ankara 
 
--
+| Konum   | İsim      | Kategoriler | Priz                                |   WIFI   | WIFI Hızı | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi | Notlar |
+|---------|-----------|-------------|-------------------------------------|----------|-----------|------------------|------------------|------------------|-------|
+| Bağlıca | CoffeeLog | -           | Çalışma salonunda her masada mevcut |  Mevcut  | 50 Mbps   |      3/10        | 09:00 - 23:00    | @coffeelogtr     |   Çalışma için bulunan bir katı var, buradaki bilgiler bu çalışma katına özeldir     |
 
 
 ## 📚 Bursa 
 
 -
-

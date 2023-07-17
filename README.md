@@ -44,7 +44,12 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Bağlıca | CoffeeLog | -           | Çalışma salonunda her masada mevcut |  Mevcut  | 50 Mbps   |      3/10        | 09:00 - 23:00    | @coffeelogtr     |   Çalışma için bulunan bir katı var, buradaki bilgiler bu çalışma katına özeldir     |
 
 
-## 📚 Antalya 
+## 📚 Antalya
+
+| Konum       | İsim        | Kategoriler | Priz                   |   WIFI   | WIFI Hızı | Gürültü Seviyesi  | Çalışma Saatleri | Instagram Adresi     | Harita                                   
+|-------------|-------------|-------------|------------------------|------------------------------------------|------------------|----------------------|-----------------------------------------|
+| Lara        | Coffee Lab  | -           | Çoğu masada mevcut     |  Mevcut  |   Mevcut  |         -         |   07:30 - 00:00  | @coffeelabtr         | https://goo.gl/maps/P3gPRApPt1RF47Qr7   |
+| Konyaaltı   | Coffee's    | -           | Duvar kenarı masalarda |  Mevcut  |   Mevcut  |         -         |   07:45 - 00:30  | @coffeesmycafe       | https://goo.gl/maps/5oSs1JuLB3qgS72ZA   | 
 
 
 ## 📚 Bursa 

@@ -11,6 +11,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 - [İzmir](#izmir)
 - [İstanbul](#istanbul)
 - [Ankara](#ankara)
+- [Antalya](#antalya)
 - [Bursa](#bursa)
 
 
@@ -43,6 +44,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Bağlıca | CoffeeLog | -           | Çalışma salonunda her masada mevcut |  Mevcut  | 50 Mbps   |      3/10        | 09:00 - 23:00    | @coffeelogtr     |   Çalışma için bulunan bir katı var, buradaki bilgiler bu çalışma katına özeldir     |
 
 
-## 📚 Bursa 
+## 📚 Antalya 
 
--
+
+## 📚 Bursa 

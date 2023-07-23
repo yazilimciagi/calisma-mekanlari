@@ -8,13 +8,13 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 
 ## Ekli Şehirler:
 
-- [İzmir](#📚-i̇zmir)
-- [İstanbul](#📚-i̇stanbul)
-- [Ankara](#📚-ankara)
-- [Bursa](#📚-bursa)
-- [Aydın](#📚-aydin)
+- [İzmir](#-i̇zmir)
+- [İstanbul](#-i̇stanbul)
+- [Ankara](#-ankara)
+- [Bursa](#-bursa)
+- [Aydın](#-aydin)
 
-## 📚 İzmir 
+## 📚 İzmir
 
 | Konum                             | İsim                | Kategoriler | Priz                   |   WIFI   |  WIFI Hızı  | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi     |
 |-----------------------------------|---------------------|-------------|------------------------|----------|-------------|------------------|------------------|----------------------|
@@ -35,9 +35,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Galataport yanı             | Astrolabe Coffee House      | -           | Duvar Kenarı, orta büyük masa         |  Mevcut  |          - |       3/10       |   08:00 - 23:00  | @astrolabeturkey     |                                       |
 | Kadıköy, Moda Sahili        | Moda İskelesi Kütüphanesi   | Manzara     | Çoğu masada mevcut                    |  Mevcut  |  0-10 Mbps |       3/10       |   09:00 - 22:00  | -                    | https://goo.gl/maps/FaCn4rzU51gGvjNv9 |
 
-
-## 📚 Ankara 
-
+## 📚 Ankara
 
 | Konum     | İsim         | Kategoriler | Priz                                   | WIFI   | WIFI Hızı | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi           | Notlar                                                                                                                                                                                                                                                          |
 | --------- | ------------- | ----------- | -------------------------------------- | ------ | ----------- | ------------------- | ------------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

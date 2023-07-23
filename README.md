@@ -8,12 +8,11 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 
 ## Ekli Şehirler:
 
-- [İzmir](#izmir)
-- [İstanbul](#istanbul)
-- [Ankara](#ankara)
-- [Bursa](#bursa)
-- [Aydın](#aydin)
-
+- [İzmir](#📚-i̇zmir)
+- [İstanbul](#📚-i̇stanbul)
+- [Ankara](#📚-ankara)
+- [Bursa](#📚-bursa)
+- [Aydın](#📚-aydin)
 
 ## 📚 İzmir 
 
@@ -25,7 +24,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Kıbrıs Şehitleri - Sevinç Karşısı | Starbucks           | -           | Çoğu masada mevcut     |  Mevcut  |  10-25 Mbps |       7/10       |   08:00 - 22:00  | @starbucks_tr        |
 
 
-## 📚 İstanbul 
+## 📚 İstanbul
 
 | Konum                       | İsim                        | Kategoriler | Priz                                  |   WIFI   | WIFI Hızı  | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi     | Harita                                |
 |-----------------------------|-----------------------------|-------------|---------------------------------------|----------|------------|------------------|------------------|----------------------|---------------------------------------|
@@ -47,7 +46,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Çayyolu  | Starbucks     | -           | Çoğu masada mevcut                   | Mevcut | -           | 4/10                | 08:00 - 22:00       | @starbucks_tr              |                                                                                                                                                                                                                                                                 |
 | Çayyolu  | Eagles Coffee | -           | Çoğu masada mevcut                   | Mevcut | -           | 2/10                | 09:00 - 24:00       | @eaglescoffeeandfoodstudio | 2 katlı ve bahçeli bir mekan ikinci kat çalışmak için çok uygun.                                                                                                                                                                                         |
 
-## 📚 Bursa 
+## 📚 Bursa
 
 -
 

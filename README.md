@@ -12,6 +12,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 - [İstanbul](#istanbul)
 - [Ankara](#ankara)
 - [Bursa](#bursa)
+- [Aydın](#aydin)
 
 
 ## 📚 İzmir 
@@ -46,3 +47,10 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 ## 📚 Bursa 
 
 -
+
+## 📚 Aydin
+
+| Konum   | İsim      | Kategoriler | Priz                                |   WIFI   | WIFI Hızı | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi | Notlar |
+|---------|-----------|-------------|-------------------------------------|----------|-----------|------------------|------------------|------------------|-------|
+|Efeler| Chocolabs | Çikolatacı | Bahçede ve kapalı kısımda çoğu masada mevcut | Mevcut | 50 Mbps | 4/10 (haftasonları 7/10) | 10:00 - 24:00 | @chocolabs_aydin | AVM içerisinde yer alıyor, haftaiçi çalışmak için uygun ancak haftasonu fazla kalabalık |
+|Kuşadası | SmartBirds | Workington | Mevcut | Mevcut | 100Mbps | 0/10 | 08:00-19:00 | @smart_birds_coworking | Günlük, haftalık, aylık abonelik mümkün, kahve çay ikramlar mevcut |

@@ -11,8 +11,10 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 - [İzmir](#-i̇zmir)
 - [İstanbul](#-i̇stanbul)
 - [Ankara](#-ankara)
+- [Antalya](#-antalya)
 - [Bursa](#-bursa)
 - [Aydın](#-aydin)
+
 
 ## 📚 İzmir
 
@@ -35,6 +37,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Galataport yanı             | Astrolabe Coffee House      | -           | Duvar Kenarı, orta büyük masa         |  Mevcut  |          - |       3/10       |   08:00 - 23:00  | @astrolabeturkey     |                                       |
 | Kadıköy, Moda Sahili        | Moda İskelesi Kütüphanesi   | Manzara     | Çoğu masada mevcut                    |  Mevcut  |  0-10 Mbps |       3/10       |   09:00 - 22:00  | -                    | https://goo.gl/maps/FaCn4rzU51gGvjNv9 |
 
+
 ## 📚 Ankara
 
 | Konum     | İsim         | Kategoriler | Priz                                   | WIFI   | WIFI Hızı | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi           | Notlar                                                                                                                                                                                                                                                          |
@@ -44,9 +47,17 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Çayyolu  | Starbucks     | -           | Çoğu masada mevcut                   | Mevcut | -           | 4/10                | 08:00 - 22:00       | @starbucks_tr              |                                                                                                                                                                                                                                                                 |
 | Çayyolu  | Eagles Coffee | -           | Çoğu masada mevcut                   | Mevcut | -           | 2/10                | 09:00 - 24:00       | @eaglescoffeeandfoodstudio | 2 katlı ve bahçeli bir mekan ikinci kat çalışmak için çok uygun.                                                                                                                                                                                         |
 
+
+## 📚 Antalya
+
+| Konum       | İsim        | Kategoriler | Priz                   |   WIFI   | WIFI Hızı   | Gürültü Seviyesi  | Çalışma Saatleri | Instagram Adresi     | Harita                                   
+|-------------|-------------|-------------|------------------------|----------|-------------|-------------------|------------------|----------------------|-----------------------------------------|
+| Lara        | Coffee Lab  | -           | Çoğu masada mevcut     |  Mevcut  |      -      |         -         |   07:30 - 00:00  | @coffeelabtr         | https://goo.gl/maps/P3gPRApPt1RF47Qr7   |
+| Konyaaltı   | Coffee's    | -           | Duvar kenarı masalarda |  Mevcut  |      -      |         -         |   07:45 - 00:30  | @coffeesmycafe       | https://goo.gl/maps/5oSs1JuLB3qgS72ZA   | 
+
+
 ## 📚 Bursa
 
--
 
 ## 📚 Aydin
 
@@ -54,3 +65,4 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 |---------|-----------|-------------|-------------------------------------|----------|-----------|------------------|------------------|------------------|-------|
 |Efeler| Chocolabs | Çikolatacı | Bahçede ve kapalı kısımda çoğu masada mevcut | Mevcut | 50 Mbps | 4/10 (haftasonları 7/10) | 10:00 - 24:00 | @chocolabs_aydin | AVM içerisinde yer alıyor, haftaiçi çalışmak için uygun ancak haftasonu fazla kalabalık |
 |Kuşadası | SmartBirds | Workington | Mevcut | Mevcut | 100Mbps | 0/10 | 08:00-19:00 | @smart_birds_coworking | Günlük, haftalık, aylık abonelik mümkün, kahve çay ikramlar mevcut |
+| Bağlıca | CoffeeLog | -           | Çalışma salonunda her masada mevcut |  Mevcut  | 50 Mbps   |      3/10        | 09:00 - 23:00    | @coffeelogtr     |   Çalışma için bulunan bir katı var, buradaki bilgiler bu çalışma katına özeldir     |

@@ -8,14 +8,15 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 
 ## Ekli Şehirler:
 
-- [İzmir](#izmir)
-- [İstanbul](#istanbul)
-- [Ankara](#ankara)
-- [Antalya](#antalya)
-- [Bursa](#bursa)
+- [İzmir](#-i̇zmir)
+- [İstanbul](#-i̇stanbul)
+- [Ankara](#-ankara)
+- [Antalya](#-antalya)
+- [Bursa](#-bursa)
+- [Aydın](#-aydin)
 
 
-## 📚 İzmir 
+## 📚 İzmir
 
 | Konum                             | İsim                | Kategoriler | Priz                   |   WIFI   |  WIFI Hızı  | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi     |
 |-----------------------------------|---------------------|-------------|------------------------|----------|-------------|------------------|------------------|----------------------|
@@ -25,7 +26,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Kıbrıs Şehitleri - Sevinç Karşısı | Starbucks           | -           | Çoğu masada mevcut     |  Mevcut  |  10-25 Mbps |       7/10       |   08:00 - 22:00  | @starbucks_tr        |
 
 
-## 📚 İstanbul 
+## 📚 İstanbul
 
 | Konum                       | İsim                        | Kategoriler | Priz                                  |   WIFI   | WIFI Hızı  | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi     | Harita                                |
 |-----------------------------|-----------------------------|-------------|---------------------------------------|----------|------------|------------------|------------------|----------------------|---------------------------------------|
@@ -37,11 +38,14 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Kadıköy, Moda Sahili        | Moda İskelesi Kütüphanesi   | Manzara     | Çoğu masada mevcut                    |  Mevcut  |  0-10 Mbps |       3/10       |   09:00 - 22:00  | -                    | https://goo.gl/maps/FaCn4rzU51gGvjNv9 |
 
 
-## 📚 Ankara 
+## 📚 Ankara
 
-| Konum   | İsim      | Kategoriler | Priz                                |   WIFI   | WIFI Hızı | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi | Notlar |
-|---------|-----------|-------------|-------------------------------------|----------|-----------|------------------|------------------|------------------|-------|
-| Bağlıca | CoffeeLog | -           | Çalışma salonunda her masada mevcut |  Mevcut  | 50 Mbps   |      3/10        | 09:00 - 23:00    | @coffeelogtr     |   Çalışma için bulunan bir katı var, buradaki bilgiler bu çalışma katına özeldir     |
+| Konum     | İsim         | Kategoriler | Priz                                   | WIFI   | WIFI Hızı | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi           | Notlar                                                                                                                                                                                                                                                          |
+| --------- | ------------- | ----------- | -------------------------------------- | ------ | ----------- | ------------------- | ------------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bağlıca | CoffeeLog     | -           | Çalışma salonunda her masada mevcut | Mevcut | 50 Mbps     | 3/10                | 09:00 - 23:00       | @coffeelogtr               | Çalışma için bulunan bir katı var, buradaki bilgiler bu çalışma katına özeldir                                                                                                                                                                        |
+| Çayyolu  | CoffeeLab     | -           | Her masada mevcut                     | Mevcut | -           | 6/10                | 07:00 - 24:00       | @coffeelabtr               | Bahçesi oldukça büyük hava güzelse açık havada çalışmak için uygun ve prizler mevcut. Kapalı mekan alanı daha küçük. Mekanın detaylı videosu:[https://www.instagram.com/p/CusBo-6AnXi/?hl=en](https://www.instagram.com/p/CusBo-6AnXi/?hl=en) |
+| Çayyolu  | Starbucks     | -           | Çoğu masada mevcut                   | Mevcut | -           | 4/10                | 08:00 - 22:00       | @starbucks_tr              |                                                                                                                                                                                                                                                                 |
+| Çayyolu  | Eagles Coffee | -           | Çoğu masada mevcut                   | Mevcut | -           | 2/10                | 09:00 - 24:00       | @eaglescoffeeandfoodstudio | 2 katlı ve bahçeli bir mekan ikinci kat çalışmak için çok uygun.                                                                                                                                                                                         |
 
 
 ## 📚 Antalya
@@ -52,4 +56,13 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Konyaaltı   | Coffee's    | -           | Duvar kenarı masalarda |  Mevcut  |      -      |         -         |   07:45 - 00:30  | @coffeesmycafe       | https://goo.gl/maps/5oSs1JuLB3qgS72ZA   | 
 
 
-## 📚 Bursa 
+## 📚 Bursa
+
+
+## 📚 Aydin
+
+| Konum   | İsim      | Kategoriler | Priz                                |   WIFI   | WIFI Hızı | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi | Notlar |
+|---------|-----------|-------------|-------------------------------------|----------|-----------|------------------|------------------|------------------|-------|
+|Efeler| Chocolabs | Çikolatacı | Bahçede ve kapalı kısımda çoğu masada mevcut | Mevcut | 50 Mbps | 4/10 (haftasonları 7/10) | 10:00 - 24:00 | @chocolabs_aydin | AVM içerisinde yer alıyor, haftaiçi çalışmak için uygun ancak haftasonu fazla kalabalık |
+|Kuşadası | SmartBirds | Workington | Mevcut | Mevcut | 100Mbps | 0/10 | 08:00-19:00 | @smart_birds_coworking | Günlük, haftalık, aylık abonelik mümkün, kahve çay ikramlar mevcut |
+| Bağlıca | CoffeeLog | -           | Çalışma salonunda her masada mevcut |  Mevcut  | 50 Mbps   |      3/10        | 09:00 - 23:00    | @coffeelogtr     |   Çalışma için bulunan bir katı var, buradaki bilgiler bu çalışma katına özeldir     |

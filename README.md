@@ -90,3 +90,14 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Konum                             | İsim                | Kategoriler | Priz                   |   WIFI   |  WIFI Hızı  | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi     |
 |-----------------------------------|---------------------|-------------|------------------------|----------|-------------|------------------|------------------|----------------------|
 | Merkez                   | Glora jeans       | Kahve           | Çoğu masada mevcut     |  Mevcut  |     10-20 Mbps |       3/10       |   7/24  | -        |
+
+## 📚 Trabzon
+
+| Konum                             | İsim                | Kategoriler | Priz                   |   WIFI   |  WIFI Hızı  | Gürültü Seviyesi | Çalışma Saatleri | Harita     |
+|-----------------------------------|---------------------|-------------|------------------------|----------|-------------|------------------|------------------|----------------------|
+| Kalkınma                   | Caribou Coffee       | Kahve            | Çoğu masada mevcut     |  Mevcut  |     0-10 Mbps |       3/10       |   09.00 - 23.59  | https://goo.gl/maps/UNFnWxUMZK6BFAkL9        |
+| Kalkınma                   | Koru Cafe       | Kafe / Restoran            | Birkaç Masada Mevcut     |  Mevcut  |     10-20 Mbps |       1/10       |   09.00 - 22.00  | https://goo.gl/maps/UAv7b5e5qUDzeyYJ7        |
+| Meydan                   | EspressoLab       | Kahve            | Çoğu masada mevcut, workspace var     |  Mevcut  |     10-20 Mbps |       1/10       |   08.00 - 22.45  | https://goo.gl/maps/jBi2X8A818B3JFEx7        |
+| Beşirli                   | Colombia Coffee       | Kahve            | Çoğu masada mevcut     |  Mevcut  |     0-10 Mbps |       6/10       |   08.00 - 00.30  | https://goo.gl/maps/9ULmm8AvB32GJKoE7        |
+| Meydan                   | Coffee & Study       | Kahve            | Çoğu masada mevcut, workspace var     |  Mevcut  |     20-30 Mbps |       1/10       |   08.00 - 23.59  | https://goo.gl/maps/m3Jje9iK6Hz81gGHA       |
+

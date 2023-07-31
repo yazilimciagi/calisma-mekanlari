@@ -37,6 +37,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Nişantaşı                   | MOC Nişantaşı               | -           | Çoğu masada mevcut                    |  Mevcut  |          - |       6/10       |   07:30 - 23:30  | @moc_coffeeofficial  |                                       |
 | Galataport yanı             | Astrolabe Coffee House      | -           | Duvar Kenarı, orta büyük masa         |  Mevcut  |          - |       3/10       |   08:00 - 23:00  | @astrolabeturkey     |                                       |
 | Kadıköy, Moda Sahili        | Moda İskelesi Kütüphanesi   | Manzara     | Çoğu masada mevcut                    |  Mevcut  |  0-10 Mbps |       3/10       |   09:00 - 22:00  | -                    | https://goo.gl/maps/FaCn4rzU51gGvjNv9 |
+| Suadiye        | Espresso Park   | -     | Çoğu masada mevcut                    |  Mevcut  |  5-15 Mbps |       2/10       |   09:00 - 22:00  | @espressoparktr | https://goo.gl/maps/2roAKvfeYGCb2TREA |
 
 
 ## 📚 Ankara

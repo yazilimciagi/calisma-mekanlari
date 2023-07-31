@@ -15,7 +15,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 - [Bursa](#-bursa)
 - [Aydın](#-aydin)
 - [Mersin](#-mersin)
-- [Isparta](#-Isparta)
+- [Isparta](#-ısparta)
 
 
 ## 📚 İzmir

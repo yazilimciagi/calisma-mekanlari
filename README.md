@@ -58,9 +58,10 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 
 ## 📚 Bursa
 
-| Konum       | İsim        | Kategoriler | Priz                   |   WIFI   | WIFI Hızı   | Gürültü Seviyesi  | Çalışma Saatleri | Instagram Adresi     | Harita                                   
-|-------------|-------------|-------------|------------------------|----------|-------------|-------------------|------------------|----------------------|-----------------------------------------|
+| Konum       | İsim        | Kategoriler | Priz                   |   WIFI   | WIFI Hızı   | Gürültü Seviyesi  | Çalışma Saatleri | Instagram Adresi     | Harita  | Notlar                                   
+|-------------|-------------|-------------|------------------------|----------|-------------|-------------------|------------------|----------------------|------------------------------------------|-----------------------------------------|
 | FSM Bulvarı        | Espresso Lab  | -           | Duvar kenarı masalarda mevcut     |  Mevcut  |      30-40 Mbps      |         -         |   7/24 Açık  | -        | https://goo.gl/maps/9Goepb6HFkPLF9897   |
+| 23 Nisan        | Vitrin Coffee & Tea  | Kahve, Yemek           | Masa altlarında mevcut     |  Mevcut  |      30+ Mbps      |         2/10         |   09.00 a.m - 01.00 a.m  | https://www.instagram.com/vitrincoffee/        | [https://goo.gl/maps/qYS7k5qqa5Xoo7CP6](https://goo.gl/maps/qYS7k5qqa5Xoo7CP6)   | Garsonlar darlamıyor. Sessiz sakin. Klimalı. Kahve ve türevleri var. Dart, satranç ve tavla için oyun alanı mevcut. Fiyatlar normal.
 
 ## 📚 Aydin
 

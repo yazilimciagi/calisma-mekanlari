@@ -15,6 +15,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 - [Bursa](#-bursa)
 - [Aydın](#-aydin)
 - [Mersin](#-mersin)
+- [Isparta](#-isparta)
 
 
 ## 📚 İzmir
@@ -82,3 +83,10 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Yenişehir                        | Grado           | -           | Çoğu masada mevcut     |  Mevcut  |     40 Mbps |       5/10       |   10:00 - 24:00  | @gradocoffee        |
 | Yenişehir       | Woliva coffe  | -           | Çoğu masada mevcut |  Mevcut  |     40 Mbps |       3/10       |   09:00 - 01:00  | @wolifacoffe  |
 | Yenişehir- sayapark | Glora jeans          | -           | Çoğu masada mevcut     |  Mevcut  |  10-25 Mbps  |  3/10  | 10:00- 22:30  |  -  | 
+
+
+## 📚 Isparta
+
+| Konum                             | İsim                | Kategoriler | Priz                   |   WIFI   |  WIFI Hızı  | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi     |
+|-----------------------------------|---------------------|-------------|------------------------|----------|-------------|------------------|------------------|----------------------|
+| Merkez                   | Glora jeans       | Kahve           | Çoğu masada mevcut     |  Mevcut  |     10-20 Mbps |       3/10       |   7/24  | -        |

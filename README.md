@@ -14,6 +14,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 - [Antalya](#-antalya)
 - [Bursa](#-bursa)
 - [Aydın](#-aydin)
+- [Mersin](#-mersin)
 
 
 ## 📚 İzmir
@@ -69,3 +70,12 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 |Efeler| Chocolabs | Çikolatacı | Bahçede ve kapalı kısımda çoğu masada mevcut | Mevcut | 50 Mbps | 4/10 (haftasonları 7/10) | 10:00 - 24:00 | @chocolabs_aydin | AVM içerisinde yer alıyor, haftaiçi çalışmak için uygun ancak haftasonu fazla kalabalık |
 |Kuşadası | SmartBirds | Workington | Mevcut | Mevcut | 100Mbps | 0/10 | 08:00-19:00 | @smart_birds_coworking | Günlük, haftalık, aylık abonelik mümkün, kahve çay ikramlar mevcut |
 | Bağlıca | CoffeeLog | -           | Çalışma salonunda her masada mevcut |  Mevcut  | 50 Mbps   |      3/10        | 09:00 - 23:00    | @coffeelogtr     |   Çalışma için bulunan bir katı var, buradaki bilgiler bu çalışma katına özeldir     |
+
+## 📚 Mersin
+
+| Konum                             | İsim                | Kategoriler | Priz                   |   WIFI   |  WIFI Hızı  | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi     |
+|-----------------------------------|---------------------|-------------|------------------------|----------|-------------|------------------|------------------|----------------------|
+| Yenişehir                   | Colombia       | -           | Çoğu masada mevcut     |  Mevcut  |     96 Mbps |       3/10       |   09:00 - 23:00  | -        |
+| Yenişehir                        | Grado           | -           | Çoğu masada mevcut     |  Mevcut  |     40 Mbps |       5/10       |   10:00 - 24:00  | @gradocoffee        |
+| Yenişehir       | Woliva coffe  | -           | Çoğu masada mevcut |  Mevcut  |     40 Mbps |       3/10       |   09:00 - 01:00  | @wolifacoffe  |
+| Yenişehir- sayapark | Glora jeans          | -           | Çoğu masada mevcut     |  Mevcut  |  10-25 Mbps  |  3/10  | 10:00- 22:30  |  -  | 

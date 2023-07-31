@@ -58,6 +58,9 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 
 ## 📚 Bursa
 
+| Konum       | İsim        | Kategoriler | Priz                   |   WIFI   | WIFI Hızı   | Gürültü Seviyesi  | Çalışma Saatleri | Instagram Adresi     | Harita                                   
+|-------------|-------------|-------------|------------------------|----------|-------------|-------------------|------------------|----------------------|-----------------------------------------|
+| FSM Bulvarı        | Espresso Lab  | -           | Duvar kenarı masalarda mevcut     |  Mevcut  |      30-40 Mbps      |         -         |   7/24 Açık  | -        | https://goo.gl/maps/9Goepb6HFkPLF9897   |
 
 ## 📚 Aydin
 

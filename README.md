@@ -18,6 +18,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 - [Isparta](#-isparta)
 - [Trabzon](#-trabzon)
 - [Afyonkarahisar](#-afyonkarahisar)
+- [Mugla](#-mugla)
 
 
 ## 📚 İzmir
@@ -116,7 +117,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 
 | Konum    | İsim            | Kategoriler | Priz                              |   WIFI   | WIFI Hızı  | Gürültü Seviyesi | Çalışma Saatleri | Harita     |
 |----------|-----------------|-------------|-----------------------------------|----------|------------|------------------|------------------|----------------------|
-| Merkez   | Mackbear Coffee | Kahve       | Çoğu masada mevcut, workspace var |  Mevcut  | 0-10 Mbps  | 4/10             | 09.00 - 00.59    | https://goo.gl/maps/tqy2uktuGKyWWeoy5        |
-| Erenler  | Mackbear Coffee | Kahve       | Birkaç Masada Mevcut              |  Mevcut  | 0-10 Mbps  | 6/10             | 09.00 - 00.59    | https://goo.gl/maps/QGcS1nsygtrT2XbbA        |
-| Erenler  | Colombia Coffee | Kahve       | Çoğu masada mevcut, workspace var |  Mevcut  | 10-20 Mbps | 3/10             | 10.00 - 01.59    | https://goo.gl/maps/Xfc47nZMqHKwQn8Y8        |
-| Uydukent | Starbucks       | Kahve       | Birkaç masada mevcut              |  Mevcut  | 0-10 Mbps  | 2/10             | 08.30 - 22.59    | https://goo.gl/maps/kKH8JbitY5FScCkh7        |
+| Koycegiz | Mackbear Coffee | Kahve       | Masaların Yarısında Var           |  Mevcut  | 15-30 Mbps | 7/10             | 09.00 - 01.00    | https://goo.gl/maps/mn1jZMsiffu7df8VA        |
+| Koycegiz | Avangart Cafe & Restaurant   | Cafe       | Dışarıdaki Masalarda Yok          |  Mevcut  | 10-25 Mbps | 5/10             | 09.00 - 02.00    | https://goo.gl/maps/k1s4Anat3Yfknm3w5       |
+| Koycegiz  | Yuvarlakçay Topgözü Restaurant | Restaurant       | Az Masada Mevcut |  Mevcut  | 10-20 Mbps | 4/10             | 10.00 - 00.00    | https://goo.gl/maps/ihXgzcZi4c6SAjT19        |
+| Ortaca | Coffee Zemata     | Kahve       | İçeride Mevcut, Workspace Var     |  Mevcut  | 0-10 Mbps  | 6/10             | 09.00 - 00.00    | https://goo.gl/maps/9XBNmYgYXL9V5w3WA        |

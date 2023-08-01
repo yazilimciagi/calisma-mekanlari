@@ -43,7 +43,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Kadıköy, Moda Sahili        | Moda İskelesi Kütüphanesi   | Manzara     | Çoğu masada mevcut                    |  Mevcut  |  0-10 Mbps |       3/10       |   09:00 - 22:00  | -                    | https://goo.gl/maps/FaCn4rzU51gGvjNv9 |
 | Suadiye        | Espresso Park   | -     | Çoğu masada mevcut                    |  Mevcut  |  5-15 Mbps |       2/10       |   09:00 - 22:00  | @espressoparktr | https://goo.gl/maps/2roAKvfeYGCb2TREA |
 | İdealtepe        | NockNock Coffee   | -     | Çoğu masada mevcut                    |  Mevcut  |  10-25 Mbps |       2/10       |   08:00 - 01:00  | @nocknockcoffee                  | https://goo.gl/maps/pmkm9sXtV26d5Uxa8 |
-
+| Kadıköy, Moda        | Yer   | -     | Duvar kenarı masalarda mevcut                    |  Mevcut  |  50 Mbps |       5/10       |   09:30 - 01:30  | @yer_moda                  | https://goo.gl/maps/VHvCtJdu84PHyu3y7 |
 
 ## 📚 Ankara
 

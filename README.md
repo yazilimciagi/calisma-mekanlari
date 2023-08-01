@@ -19,6 +19,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 - [Trabzon](#-trabzon)
 - [Afyonkarahisar](#-afyonkarahisar)
 - [Mugla](#-mugla)
+- [Sakarya](#-sakarya)
 
 
 ## 📚 İzmir
@@ -127,3 +128,11 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Koycegiz | Avangart Cafe & Restaurant   | Cafe       | Dışarıdaki Masalarda Yok          |  Mevcut  | 10-25 Mbps | 5/10             | 09.00 - 02.00    | https://goo.gl/maps/k1s4Anat3Yfknm3w5       |
 | Koycegiz  | Yuvarlakçay Topgözü Restaurant | Restaurant       | Az Masada Mevcut |  Mevcut  | 10-20 Mbps | 4/10             | 10.00 - 00.00    | https://goo.gl/maps/ihXgzcZi4c6SAjT19        |
 | Ortaca | Coffee Zemata     | Kahve       | İçeride Mevcut, Workspace Var     |  Mevcut  | 0-10 Mbps  | 6/10             | 09.00 - 00.00    | https://goo.gl/maps/9XBNmYgYXL9V5w3WA        |
+
+## 📚 Sakarya
+
+| Konum    | İsim                   | Kategoriler        | Priz                              |   WIFI   | WIFI Hızı  | Gürültü Seviyesi                              | Çalışma Saatleri | Instagram Adresi | Harita                                |
+|----------|------------------------|--------------------|-----------------------------------|----------|------------|-----------------------------------------------|------------------|------------------|---------------------------------------|
+| Serdivan | Federal Coffee Co      | Kahve / Restaurant | Çoğu masada mevcut                |  Mevcut  | 10-20 Mbps | 4/10                                          | 09.30 - 01.00    | @federalsakarya  | [https://goo.gl/maps/x5Pny1PNarqP5hRN6](https://goo.gl/maps/x5Pny1PNarqP5hRN6) |
+| Serdivan | Tworoutes              | Cafe               | Çoğu masada mevcut                |  Mevcut  | 5-15 Mbps  | 6/10                                          | 10.00 - 01.00    | @tworoutes       | [https://goo.gl/maps/nm2uchFJdrwe78TbA](https://goo.gl/maps/nm2uchFJdrwe78TbA) |
+| Serdivan | Coffee And Study       | Cafe               | Çoğu masada mevcut, workspace var |  Mevcut  | 5-25 Mbps  | 5/10(`ayrıca kişisel çalışma alanı bulunuyor`)| 08.30 - 01.00    | -                | [https://goo.gl/maps/LVLfmT2sWkzAT7X78](https://goo.gl/maps/LVLfmT2sWkzAT7X78) |

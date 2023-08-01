@@ -114,6 +114,8 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Erenler  | Mackbear Coffee | Kahve       | Birkaç Masada Mevcut              |  Mevcut  | 0-10 Mbps  | 6/10             | 09.00 - 00.59    | https://goo.gl/maps/QGcS1nsygtrT2XbbA        |
 | Erenler  | Colombia Coffee | Kahve       | Çoğu masada mevcut, workspace var |  Mevcut  | 10-20 Mbps | 3/10             | 10.00 - 01.59    | https://goo.gl/maps/Xfc47nZMqHKwQn8Y8        |
 | Uydukent | Starbucks       | Kahve       | Birkaç masada mevcut              |  Mevcut  | 0-10 Mbps  | 2/10             | 08.30 - 22.59    | https://goo.gl/maps/kKH8JbitY5FScCkh7        |
+| Merkez   | Kahve Dünyası | Kahve       | Çoğu masada mevcut, workspace var |  Mevcut  | 10-20 Mbps  | 3/10             | 09.00 - 22.00    | https://goo.gl/maps/mHfqoe48v9xhRf3x5
+| Merkez   | Starbucks | Kahve       | Çoğu masada mevcut, workspace var |  Mevcut  | 10-20 Mbps  | 4/10             | 09.00 - 22.00    | https://goo.gl/maps/cG7aq1ZpQydUGQKa7
 
 ## 📚 Mugla
 

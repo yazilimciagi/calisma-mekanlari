@@ -83,12 +83,13 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 
 ## 📚 Mersin
 
-| Konum                             | İsim                | Kategoriler | Priz                   |   WIFI   |  WIFI Hızı  | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi     |
-|-----------------------------------|---------------------|-------------|------------------------|----------|-------------|------------------|------------------|----------------------|
-| Yenişehir                   | Colombia       | -           | Çoğu masada mevcut     |  Mevcut  |     96 Mbps |       3/10       |   09:00 - 23:00  | -        |
-| Yenişehir                        | Grado           | -           | Çoğu masada mevcut     |  Mevcut  |     40 Mbps |       5/10       |   10:00 - 24:00  | @gradocoffee        |
-| Yenişehir       | Woliva coffe  | -           | Çoğu masada mevcut |  Mevcut  |     40 Mbps |       3/10       |   09:00 - 01:00  | @wolifacoffe  |
-| Yenişehir- sayapark | Glora jeans          | -           | Çoğu masada mevcut     |  Mevcut  |  10-25 Mbps  |  3/10  | 10:00- 22:30  |  -  | 
+| Konum               | İsim               | Kategoriler | Priz               | WIFI   | WIFI Hızı   | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi |
+|---------------------|--------------------|-------------|--------------------|--------|-------------|------------------|------------------|------------------|
+| Yenişehir           | Colombia           | -           | Çoğu masada mevcut | Mevcut | 96 Mbps     | 3/10             | 09:00 - 23:00    | -                |
+| Yenişehir           | Grado              | -           | Çoğu masada mevcut | Mevcut | 40 Mbps     | 5/10             | 10:00 - 24:00    | @gradocoffee     |
+| Yenişehir           | Woliva coffe       | -           | Çoğu masada mevcut | Mevcut | 40 Mbps     | 3/10             | 09:00 - 01:00    | @wolifacoffe     |
+| Yenişehir- sayapark | Glora jeans        | -           | Çoğu masada mevcut | Mevcut | 10-25 Mbps  | 3/10             | 10:00- 22:30     | -                | 
+| Mezilti             | Adres Okuma Salonu | Kütüphane   | Çoğu masada mevcut | Mevcut | 60-100 Mbps | 2/10             | 08:00 - 22:00    | -                |
 
 
 ## 📚 Isparta

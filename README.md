@@ -8,18 +8,18 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 
 ## Ekli Şehirler:
 
-- [İzmir](#-i̇zmir)
-- [İstanbul](#-i̇stanbul)
-- [Ankara](#-ankara)
-- [Antalya](#-antalya)
-- [Bursa](#-bursa)
-- [Aydın](#-aydin)
-- [Mersin](#-mersin)
-- [Isparta](#-isparta)
-- [Trabzon](#-trabzon)
 - [Afyonkarahisar](#-afyonkarahisar)
+- [Antalya](#-antalya)
+- [Ankara](#-ankara)
+- [Aydın](#-aydin)
+- [Bursa](#-bursa)
+- [Isparta](#-isparta)
+- [İstanbul](#-i̇stanbul)
+- [İzmir](#-i̇zmir)
+- [Mersin](#-mersin)
 - [Mugla](#-mugla)
 - [Sakarya](#-sakarya)
+- [Trabzon](#-trabzon)
 
 ## Web UI
 

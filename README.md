@@ -96,33 +96,33 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 
 ## 📚 Trabzon
 
-| Konum    | İsim            | Kategoriler     | Priz                              | WIFI   | WIFI Hızı  | Gürültü Seviyesi | Çalışma Saatleri | Harita                                  | Notlar |
-| -------- | --------------- | --------------- | --------------------------------- | ------ | ---------- | ---------------- | ---------------- | --------------------------------------- | ------ |
-| Kalkınma | Caribou Coffee  | Kahve           | Çoğu masada mevcut                | Mevcut | 0-10 Mbps  | 3/10             | 09.00 - 23.59    | <https://goo.gl/maps/UNFnWxUMZK6BFAkL9> | N/A    |
-| Kalkınma | Koru Cafe       | Kafe / Restoran | Birkaç Masada Mevcut              | Mevcut | 10-20 Mbps | 1/10             | 09.00 - 22.00    | <https://goo.gl/maps/UAv7b5e5qUDzeyYJ7> | N/A    |
-| Meydan   | EspressoLab     | Kahve           | Çoğu masada mevcut, workspace var | Mevcut | 10-20 Mbps | 1/10             | 08.00 - 22.45    | <https://goo.gl/maps/jBi2X8A818B3JFEx7> | N/A    |
-| Beşirli  | Colombia Coffee | Kahve           | Çoğu masada mevcut                | Mevcut | 0-10 Mbps  | 6/10             | 08.00 - 00.30    | <https://goo.gl/maps/9ULmm8AvB32GJKoE7> | N/A    |
-| Meydan   | Coffee & Study  | Kahve           | Çoğu masada mevcut, workspace var | Mevcut | 20-30 Mbps | 1/10             | 08.00 - 23.59    | <https://goo.gl/maps/m3Jje9iK6Hz81gGHA> | N/A    |
+| Konum    | İsim            | Kategoriler     | Priz                              | WIFI   | WIFI Hızı  | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi | Harita                                  | Notlar |
+| -------- | --------------- | --------------- | --------------------------------- | ------ | ---------- | ---------------- | ---------------- | ---------------- | --------------------------------------- | ------ |
+| Kalkınma | Caribou Coffee  | Kahve           | Çoğu masada mevcut                | Mevcut | 0-10 Mbps  | 3/10             | 09.00 - 23.59    | N/A              | <https://goo.gl/maps/UNFnWxUMZK6BFAkL9> | N/A    |
+| Kalkınma | Koru Cafe       | Kafe / Restoran | Birkaç Masada Mevcut              | Mevcut | 10-20 Mbps | 1/10             | 09.00 - 22.00    | N/A              | <https://goo.gl/maps/UAv7b5e5qUDzeyYJ7> | N/A    |
+| Meydan   | EspressoLab     | Kahve           | Çoğu masada mevcut, workspace var | Mevcut | 10-20 Mbps | 1/10             | 08.00 - 22.45    | N/A              | <https://goo.gl/maps/jBi2X8A818B3JFEx7> | N/A    |
+| Beşirli  | Colombia Coffee | Kahve           | Çoğu masada mevcut                | Mevcut | 0-10 Mbps  | 6/10             | 08.00 - 00.30    | N/A              | <https://goo.gl/maps/9ULmm8AvB32GJKoE7> | N/A    |
+| Meydan   | Coffee & Study  | Kahve           | Çoğu masada mevcut, workspace var | Mevcut | 20-30 Mbps | 1/10             | 08.00 - 23.59    | N/A              | <https://goo.gl/maps/m3Jje9iK6Hz81gGHA> | N/A    |
 
 ## 📚 Afyonkarahisar
 
-| Konum    | İsim            | Kategoriler | Priz                              | WIFI   | WIFI Hızı  | Gürültü Seviyesi | Çalışma Saatleri | Harita                                  | Notlar |
-| -------- | --------------- | ----------- | --------------------------------- | ------ | ---------- | ---------------- | ---------------- | --------------------------------------- | ------ |
-| Merkez   | Mackbear Coffee | Kahve       | Çoğu masada mevcut, workspace var | Mevcut | 0-10 Mbps  | 4/10             | 09.00 - 00.59    | <https://goo.gl/maps/tqy2uktuGKyWWeoy5> | N/A    |
-| Erenler  | Mackbear Coffee | Kahve       | Birkaç Masada Mevcut              | Mevcut | 0-10 Mbps  | 6/10             | 09.00 - 00.59    | <https://goo.gl/maps/QGcS1nsygtrT2XbbA> | N/A    |
-| Erenler  | Colombia Coffee | Kahve       | Çoğu masada mevcut, workspace var | Mevcut | 10-20 Mbps | 3/10             | 10.00 - 01.59    | <https://goo.gl/maps/Xfc47nZMqHKwQn8Y8> | N/A    |
-| Uydukent | Starbucks       | Kahve       | Birkaç masada mevcut              | Mevcut | 0-10 Mbps  | 2/10             | 08.30 - 22.59    | <https://goo.gl/maps/kKH8JbitY5FScCkh7> | N/A    |
-| Merkez   | Kahve Dünyası   | Kahve       | Çoğu masada mevcut, workspace var | Mevcut | 10-20 Mbps | 3/10             | 09.00 - 22.00    | <https://goo.gl/maps/mHfqoe48v9xhRf3x5> | N/A    |
-| Merkez   | Starbucks       | Kahve       | Çoğu masada mevcut, workspace var | Mevcut | 10-20 Mbps | 4/10             | 09.00 - 22.00    | <https://goo.gl/maps/cG7aq1ZpQydUGQKa7> | N/A    |
+| Konum    | İsim            | Kategoriler | Priz                              | WIFI   | WIFI Hızı  | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi | Harita                                  | Notlar |
+| -------- | --------------- | ----------- | --------------------------------- | ------ | ---------- | ---------------- | ---------------- | ---------------- | --------------------------------------- | ------ |
+| Merkez   | Mackbear Coffee | Kahve       | Çoğu masada mevcut, workspace var | Mevcut | 0-10 Mbps  | 4/10             | 09.00 - 00.59    | N/A              | <https://goo.gl/maps/tqy2uktuGKyWWeoy5> | N/A    |
+| Erenler  | Mackbear Coffee | Kahve       | Birkaç Masada Mevcut              | Mevcut | 0-10 Mbps  | 6/10             | 09.00 - 00.59    | N/A              | <https://goo.gl/maps/QGcS1nsygtrT2XbbA> | N/A    |
+| Erenler  | Colombia Coffee | Kahve       | Çoğu masada mevcut, workspace var | Mevcut | 10-20 Mbps | 3/10             | 10.00 - 01.59    | N/A              | <https://goo.gl/maps/Xfc47nZMqHKwQn8Y8> | N/A    |
+| Uydukent | Starbucks       | Kahve       | Birkaç masada mevcut              | Mevcut | 0-10 Mbps  | 2/10             | 08.30 - 22.59    | N/A              | <https://goo.gl/maps/kKH8JbitY5FScCkh7> | N/A    |
+| Merkez   | Kahve Dünyası   | Kahve       | Çoğu masada mevcut, workspace var | Mevcut | 10-20 Mbps | 3/10             | 09.00 - 22.00    | N/A              | <https://goo.gl/maps/mHfqoe48v9xhRf3x5> | N/A    |
+| Merkez   | Starbucks       | Kahve       | Çoğu masada mevcut, workspace var | Mevcut | 10-20 Mbps | 4/10             | 09.00 - 22.00    | N/A              | <https://goo.gl/maps/cG7aq1ZpQydUGQKa7> | N/A    |
 
 ## 📚 Mugla
 
-| Konum    | İsim                           | Kategoriler | Priz                          | WIFI   | WIFI Hızı  | Gürültü Seviyesi | Çalışma Saatleri | Harita                                  | Notlar |
-| -------- | ------------------------------ | ----------- | ----------------------------- | ------ | ---------- | ---------------- | ---------------- | --------------------------------------- | ------ |
-| Koycegiz | Mackbear Coffee                | Kahve       | Masaların Yarısında Var       | Mevcut | 15-30 Mbps | 7/10             | 09.00 - 01.00    | <https://goo.gl/maps/mn1jZMsiffu7df8VA> | N/A    |
-| Koycegiz | Avangart Cafe & Restaurant     | Cafe        | Dışarıdaki Masalarda Yok      | Mevcut | 10-25 Mbps | 5/10             | 09.00 - 02.00    | <https://goo.gl/maps/k1s4Anat3Yfknm3w5> | N/A    |
-| Koycegiz | Yuvarlakçay Topgözü Restaurant | Restaurant  | Az Masada Mevcut              | Mevcut | 10-20 Mbps | 4/10             | 10.00 - 00.00    | <https://goo.gl/maps/ihXgzcZi4c6SAjT19> | N/A    |
-| Ortaca   | Coffee Zemata                  | Kahve       | İçeride Mevcut, Workspace Var | Mevcut | 0-10 Mbps  | 6/10             | 09.00 - 00.00    | <https://goo.gl/maps/9XBNmYgYXL9V5w3WA> | N/A    |
+| Konum    | İsim                           | Kategoriler | Priz                          | WIFI   | WIFI Hızı  | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi | Harita                                  | Notlar |
+| -------- | ------------------------------ | ----------- | ----------------------------- | ------ | ---------- | ---------------- | ---------------- | ---------------- | --------------------------------------- | ------ |
+| Koycegiz | Mackbear Coffee                | Kahve       | Masaların Yarısında Var       | Mevcut | 15-30 Mbps | 7/10             | 09.00 - 01.00    | N/A              | <https://goo.gl/maps/mn1jZMsiffu7df8VA> | N/A    |
+| Koycegiz | Avangart Cafe & Restaurant     | Cafe        | Dışarıdaki Masalarda Yok      | Mevcut | 10-25 Mbps | 5/10             | 09.00 - 02.00    | N/A              | <https://goo.gl/maps/k1s4Anat3Yfknm3w5> | N/A    |
+| Koycegiz | Yuvarlakçay Topgözü Restaurant | Restaurant  | Az Masada Mevcut              | Mevcut | 10-20 Mbps | 4/10             | 10.00 - 00.00    | N/A              | <https://goo.gl/maps/ihXgzcZi4c6SAjT19> | N/A    |
+| Ortaca   | Coffee Zemata                  | Kahve       | İçeride Mevcut, Workspace Var | Mevcut | 0-10 Mbps  | 6/10             | 09.00 - 00.00    | N/A              | <https://goo.gl/maps/9XBNmYgYXL9V5w3WA> | N/A    |
 
 ## 📚 Sakarya
 

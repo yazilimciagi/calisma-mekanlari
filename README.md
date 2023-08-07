@@ -77,7 +77,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Efeler   | Chocolabs  | Çikolatacı  | Bahçede ve kapalı kısımda çoğu masada mevcut | Mevcut | 50 Mbps   | 4/10 (haftasonları 7/10) | 10:00 - 24:00    | @chocolabs_aydin       | N/A    | AVM içerisinde yer alıyor, haftaiçi çalışmak için uygun ancak haftasonu fazla kalabalık |
 | Kuşadası | SmartBirds | Workington  | Mevcut                                       | Mevcut | 100Mbps   | 0/10                     | 08:00-19:00      | @smart_birds_coworking | N/A    | Günlük, haftalık, aylık abonelik mümkün, kahve çay ikramlar mevcut                      |
 | Bağlıca  | CoffeeLog  | N/A         | Çalışma salonunda her masada mevcut          | Mevcut | 50 Mbps   | 3/10                     | 09:00 - 23:00    | @coffeelogtr           | N/A    | Çalışma için bulunan bir katı var, buradaki bilgiler bu çalışma katına özeldir          |
-| Efeler  | Daniels Coffee  | N/A         | Çalışma salonunda her masada mevcut          | Mevcut | 500 Mbps   | 5/10                     | 10:00 - 22:00    | @danielscoffee.aydin           | N/A    | Nispeten gündüz saatleri daha rahat , akşam saatleri biraz daha sohbet sesleri artabilir.           |
+| Efeler  | Daniels Coffee  | N/A         | Çalışma salonunda her masada mevcut          | Mevcut | 500 Mbps   | 5/10                     | 10:00 - 22:00    | @danielscoffee.aydin           | <https://goo.gl/maps/C6Nvdfch3BP5hnPA6>   | Nispeten gündüz saatleri daha rahat , akşam saatleri biraz daha sohbet sesleri artabilir.           |
 
 
 ## 📚 Mersin

@@ -6,21 +6,28 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 * ➕ Eklemek istediğiniz mekanı `README.md` içinde yazınız.
 * 🔄 Sonra GitHub'a `dev` branchından pushlayıp `main` a merge request açınız.
 
-## Ekli Şehirler
 
-* [İzmir](#-i̇zmir)
-* [İstanbul](#-i̇stanbul)
-* [Ankara](#-ankara)
-* [Antalya](#-antalya)
-* [Bursa](#-bursa)
-* [Aydın](#-aydin)
-* [Manisa](#-manisa)
-* [Mersin](#-mersin)
-* [Isparta](#-isparta)
-* [Trabzon](#-trabzon)
-* [Afyonkarahisar](#-afyonkarahisar)
-* [Mugla](#-mugla)
-* [Sakarya](#-sakarya)
+## Ekli Şehirler:
+
+- [Afyonkarahisar](#-afyonkarahisar)
+- [Antalya](#-antalya)
+- [Ankara](#-ankara)
+- [Aydın](#-aydin)
+- [Bursa](#-bursa)
+- [Isparta](#-isparta)
+- [İstanbul](#-i̇stanbul)
+- [İzmir](#-i̇zmir)
+- [Manisa](#-manisa)
+- [Mersin](#-mersin)
+- [Mugla](#-mugla)
+- [Sakarya](#-sakarya)
+- [Trabzon](#-trabzon)
+
+## Web UI
+
+🌐 https://calisma-mekanlari-app.vercel.app/
+👏 Thank you for Web UI [@code-a-man](https://github.com/code-a-man)
+
 
 ## 📚 İzmir
 
@@ -77,7 +84,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | -------- | ---------- | ----------- | -------------------------------------------- | ------ | --------- | ------------------------ | ---------------- | ---------------------- | ------ | --------------------------------------------------------------------------------------- |
 | Efeler   | Chocolabs  | Çikolatacı  | Bahçede ve kapalı kısımda çoğu masada mevcut | Mevcut | 50 Mbps   | 4/10 (haftasonları 7/10) | 10:00 - 24:00    | @chocolabs_aydin       | N/A    | AVM içerisinde yer alıyor, haftaiçi çalışmak için uygun ancak haftasonu fazla kalabalık |
 | Kuşadası | SmartBirds | Workington  | Mevcut                                       | Mevcut | 100Mbps   | 0/10                     | 08:00-19:00      | @smart_birds_coworking | N/A    | Günlük, haftalık, aylık abonelik mümkün, kahve çay ikramlar mevcut                      |
-| Bağlıca  | CoffeeLog  | N/A         | Çalışma salonunda her masada mevcut          | Mevcut | 50 Mbps   | 3/10                     | 09:00 - 23:00    | @coffeelogtr           | N/A    | Çalışma için bulunan bir katı var, buradaki bilgiler bu çalışma katına özeldir          |
+
 
 ## 📚 Manisa
 

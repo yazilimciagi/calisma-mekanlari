@@ -53,6 +53,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | İdealtepe               | NockNock Coffee           | N/A         | Çoğu masada mevcut                    | Mevcut | 10-25 Mbps             | 2/10             | 08:00 - 01:00    | @nocknockcoffee     | <https://goo.gl/maps/pmkm9sXtV26d5Uxa8>             | N/A    |
 | Kadıköy, Moda           | Yer                       | N/A         | Duvar kenarı masalarda mevcut         | Mevcut | 50 Mbps                | 5/10             | 09:30 - 01:30    | @yer_moda           | <https://goo.gl/maps/VHvCtJdu84PHyu3y7>             | N/A    |
 | Kadıköy, Bağdat Caddesi | Mikel Coffee              | Yer         | Duvar kenarı masalarda mevcut         | Mevcut | D:100 Mbps / U:10 Mbps | 3/10             | 07:30 - 23:00    | @mikelcoffee_tr     | <https://maps.app.goo.gl/xK7WrTGA4fpPG7An9> | N/A    |
+| Beşiktaş                | Coffee Talks              | N/A         | Çoğu masada mevcut                    | Mevcut | N/A                    | 4/10             | 08:00 - 02:30    | @coffeetalksneverends | <https://goo.gl/maps/YMiFLmCBFAXLGHLs7>           | N/A    |
 
 ## 📚 Ankara
 

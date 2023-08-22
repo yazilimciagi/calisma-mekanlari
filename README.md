@@ -56,6 +56,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Beşiktaş                | Coffee Talks              | N/A         | Çoğu masada mevcut                    | Mevcut | N/A                    | 4/10             | 08:00 - 02:30    | @coffeetalksneverends | <https://goo.gl/maps/YMiFLmCBFAXLGHLs7>           | N/A    |
 | Çengelköy                | EspressoLab Çengelköy-İskele                | N/A         | Bahçeye bakan giriş kat ve üst katta var          | Mevcut | N/A                | 3/10             | 08:00 - 02:00    | @espressolabtr   | <https://goo.gl/maps/A5HhagKTM1CYVaNz5>                                                 | N/A    |
 | Bebek                | Caffe Nero Bebek             | N/A         | N/A                    | Mevcut | N/A                    | 5/10             | 07:00 - 23:00    | N/A | <https://goo.gl/maps/iWUoCNZa9fh1jygb8>           | N/A    |
+| Harbiye                | Espressolab Taşkışla             | N/A         | N/A                    | Mevcut | N/A                    | 5/10             | 07:00 - 00:00    | N/A | <https://goo.gl/maps/1mkgPCocXwCtjUL28>           | N/A    |
 
 
 ## 📚 Ankara

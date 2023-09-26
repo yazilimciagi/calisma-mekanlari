@@ -38,6 +38,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Narlıdere - DEU GSF Karşısı       | Pablo Artisan Kafe | N/A         | Duvar kenarı masalarda | Mevcut | 50 Mbps    | 2/10             | 09:00 - 21:00    | @pabloartisancoffee | N/A    | N/A    |
 | Kıbrıs Şehitleri - Sevinç Karşısı | Starbucks          | N/A         | Çoğu masada mevcut     | Mevcut | 10-25 Mbps | 7/10             | 08:00 - 22:00    | @starbucks_tr       | N/A    | N/A    |
 | Kahramanlar - Alsancak            | Home Cafe and Hub  | N/A         | Çoğu masada mevcut     | Mevcut | 50-60 Mbps | 2/10             | 09:00 - 22:00    | @homecafetr         | [Google Maps](https://goo.gl/maps/8PYBZ4t4hSXHcAY26)    | N/A    |
+| Karşıyaka - Mavişehir             | La Puerta Experience | N/A       | En dış masalar hariç   | Mevcut | 200 Mbps   | 8/10             | 12:00 - 01:00    | @lapuertaexperience | [Google Maps] (https://maps.app.goo.gl/MvhTwwR6NfUFz8gv6) | N/A |
 
 ## 📚 İstanbul
 

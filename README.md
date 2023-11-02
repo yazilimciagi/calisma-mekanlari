@@ -37,22 +37,29 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Narlıdere                         | Starbucks          | N/A         | Çoğu masada mevcut     | Mevcut | 30 Mbps    | 2/10             | 09:00 - 14:00    | @starbucks_tr       | N/A    | N/A    |
 | Narlıdere - DEU GSF Karşısı       | Pablo Artisan Kafe | N/A         | Duvar kenarı masalarda | Mevcut | 50 Mbps    | 2/10             | 09:00 - 21:00    | @pabloartisancoffee | N/A    | N/A    |
 | Kıbrıs Şehitleri - Sevinç Karşısı | Starbucks          | N/A         | Çoğu masada mevcut     | Mevcut | 10-25 Mbps | 7/10             | 08:00 - 22:00    | @starbucks_tr       | N/A    | N/A    |
-| Kahramanlar - Alsancak | Home Cafe and Hub          | N/A         | Çoğu masada mevcut     | Mevcut | 50-60 Mbps | 2/10             | 09:00 - 22:00    | @homecafetr       | [Google Maps](https://goo.gl/maps/8PYBZ4t4hSXHcAY26)    | N/A    |
+| Kahramanlar - Alsancak            | Home Cafe and Hub  | N/A         | Çoğu masada mevcut     | Mevcut | 50-60 Mbps | 2/10             | 09:00 - 22:00    | @homecafetr         | [Google Maps](https://goo.gl/maps/8PYBZ4t4hSXHcAY26)    | N/A    |
+| Karşıyaka - Mavişehir             | La Puerta Experience | N/A       | En dış masalar hariç   | Mevcut | 200 Mbps   | 8/10             | 12:00 - 01:00    | @lapuertaexperience | [Google Maps] (https://maps.app.goo.gl/MvhTwwR6NfUFz8gv6) | N/A |
 
 ## 📚 İstanbul
 
 | Konum                   | İsim                      | Kategoriler | Priz                                  | WIFI   | WIFI Hızı              | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi    | Harita                                              | Notlar |
 | ----------------------- | ------------------------- | ----------- | ------------------------------------- | ------ | ---------------------- | ---------------- | ---------------- | ------------------- | --------------------------------------------------- | ------ |
-| Yeşilköy                | Caffè Nero                | N/A         | İçeride üst katta çoğunlukla          | Mevcut | 30 Mbps                | 4/10             | 09:00 - 00:00    | @caffeneroturkiye   | N/A                                                 | N/A    |
-| Beşiktaş                | O Coffee                  | N/A         | Sadece mekanın içerisindeki masalarda | Mevcut | N/A                    | 6/10             | 10:00 - 01:00    | @ocoffeecompany     | N/A                                                 | N/A    |
-| Beşiktaş                | Baracca Cafe              | N/A         | Çoğu masada mevcut                    | Mevcut | N/A                    | 3/10             | 08:30 - 00:30    | N/A                 | N/A                                                 | N/A    |
-| Nişantaşı               | MOC Nişantaşı             | N/A         | Çoğu masada mevcut                    | Mevcut | N/A                    | 6/10             | 07:30 - 23:30    | @moc_coffeeofficial | N/A                                                 | N/A    |
+| Yeşilköy                | Caffè Nero                | N/A         | İçeride üst katta çoğunlukla          | Mevcut | 30 Mbps                | 4/10             | 09:00 - 00:00    | @caffeneroturkiye   | <https://goo.gl/maps/sNjVqirv99sF7LUP8>                                                 | N/A    |
+| Beşiktaş                | O Coffee                  | N/A         | Sadece mekanın içerisindeki masalarda | Mevcut | N/A                    | 6/10             | 10:00 - 01:00    | @ocoffeecompany     | <https://goo.gl/maps/AFVKkf1kiSz364cT8>                                                 | N/A    |
+| Beşiktaş                | Baracca Cafe              | N/A         | Çoğu masada mevcut                    | Mevcut | N/A                    | 3/10             | 08:30 - 00:30    | N/A                 | <https://goo.gl/maps/V9HFmFDtPCXTvR9Q8>                                                 | N/A    |
+| Nişantaşı               | MOC Nişantaşı             | N/A         | Çoğu masada mevcut                    | Mevcut | N/A                    | 6/10             | 07:30 - 23:30    | @moc_coffeeofficial | <https://goo.gl/maps/pijwD26HYWoC9GXH8>                                                 | N/A    |
 | Galataport yanı         | Astrolabe Coffee House    | N/A         | Duvar Kenarı, orta büyük masa         | Mevcut | N/A                    | 3/10             | 08:00 - 23:00    | @astrolabeturkey    | <https://maps.app.goo.gl/Ws2SRmTy32xjtvVs9>                                                 | N/A    |
 | Kadıköy, Moda Sahili    | Moda İskelesi Kütüphanesi | Manzara     | Çoğu masada mevcut                    | Mevcut | 0-10 Mbps              | 3/10             | 09:00 - 22:00    | N/A                 | <https://goo.gl/maps/FaCn4rzU51gGvjNv9>             | N/A    |
 | Suadiye                 | Espresso Park             | N/A         | Çoğu masada mevcut                    | Mevcut | 5-15 Mbps              | 2/10             | 09:00 - 22:00    | @espressoparktr     | <https://goo.gl/maps/2roAKvfeYGCb2TREA>             | N/A    |
 | İdealtepe               | NockNock Coffee           | N/A         | Çoğu masada mevcut                    | Mevcut | 10-25 Mbps             | 2/10             | 08:00 - 01:00    | @nocknockcoffee     | <https://goo.gl/maps/pmkm9sXtV26d5Uxa8>             | N/A    |
 | Kadıköy, Moda           | Yer                       | N/A         | Duvar kenarı masalarda mevcut         | Mevcut | 50 Mbps                | 5/10             | 09:30 - 01:30    | @yer_moda           | <https://goo.gl/maps/VHvCtJdu84PHyu3y7>             | N/A    |
 | Kadıköy, Bağdat Caddesi | Mikel Coffee              | Yer         | Duvar kenarı masalarda mevcut         | Mevcut | D:100 Mbps / U:10 Mbps | 3/10             | 07:30 - 23:00    | @mikelcoffee_tr     | <https://maps.app.goo.gl/xK7WrTGA4fpPG7An9> | N/A    |
+| Beşiktaş                | Coffee Talks              | N/A         | Çoğu masada mevcut                    | Mevcut | N/A                    | 4/10             | 08:00 - 02:30    | @coffeetalksneverends | <https://goo.gl/maps/YMiFLmCBFAXLGHLs7>           | N/A    |
+| Çengelköy                | EspressoLab Çengelköy-İskele                | N/A         | Bahçeye bakan giriş kat ve üst katta var          | Mevcut | N/A                | 3/10             | 08:00 - 02:00    | @espressolabtr   | <https://goo.gl/maps/A5HhagKTM1CYVaNz5>                                                 | N/A    |
+| Bebek                | Caffe Nero Bebek             | N/A         | N/A                    | Mevcut | N/A                    | 5/10             | 07:00 - 23:00    | N/A | <https://goo.gl/maps/iWUoCNZa9fh1jygb8>           | N/A    |
+| Harbiye                | Espressolab Taşkışla             | N/A         | N/A                    | Mevcut | N/A                    | 5/10             | 07:00 - 00:00    | N/A | <https://goo.gl/maps/1mkgPCocXwCtjUL28>           | N/A    |
+| Caddebostan                | Caffè Nero             | Kafe         | Duvar kenarı masalarda mevcut                    | Mevcut | N/A                    | 6/10             | 08:00 - 23:00    | @caffeneroturkiye | <https://goo.gl/maps/z8YhpXo9kJVAHfcg7>           | N/A    |
+
 
 ## 📚 Ankara
 
@@ -85,6 +92,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | -------- | ---------- | ----------- | -------------------------------------------- | ------ | --------- | ------------------------ | ---------------- | ---------------------- | ------ | --------------------------------------------------------------------------------------- |
 | Efeler   | Chocolabs  | Çikolatacı  | Bahçede ve kapalı kısımda çoğu masada mevcut | Mevcut | 50 Mbps   | 4/10 (haftasonları 7/10) | 10:00 - 24:00    | @chocolabs_aydin       | N/A    | AVM içerisinde yer alıyor, haftaiçi çalışmak için uygun ancak haftasonu fazla kalabalık |
 | Kuşadası | SmartBirds | Workington  | Mevcut                                       | Mevcut | 100Mbps   | 0/10                     | 08:00-19:00      | @smart_birds_coworking | N/A    | Günlük, haftalık, aylık abonelik mümkün, kahve çay ikramlar mevcut                      |
+| Efeler  | Daniels Coffee  | N/A         | Çalışma salonunda her masada mevcut          | Mevcut | 500 Mbps   | 5/10                     | 10:00 - 22:00    | @danielscoffee.aydin           | <https://goo.gl/maps/C6Nvdfch3BP5hnPA6>   | Nispeten gündüz saatleri daha rahat , akşam saatleri biraz daha sohbet sesleri artabilir.           |
 
 
 ## 📚 Manisa
@@ -102,6 +110,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Prime AVM - Merkez | Pause Coffea Prime | Kafe | Bazı masalarda mevcut | N/A | N/A | N/A | 08:00 - 02:00 | @pausecoffea | <https://goo.gl/maps/EkjQEGQuWYyZeFaK9> | [Mekan Bilgileri](https://www.pausecoffea.com/magazalar/prime) |
 | Cumhuriyet - Salihli | Pause Coffea Salihli | Kafe | Bazı masalarda mevcut | N/A | N/A | N/A | 07:00 - 01:00 | @pausecoffea | <https://goo.gl/maps/Nh11m7znGNPUwuPd7> | [Mekan Bilgileri](https://www.pausecoffea.com/magazalar/salihli) |
 | Atatürk - Akhisar | Pause Coffea Akhisar | Kafe | Bazı masalarda mevcut | N/A | N/A | N/A | 09:00 - 01:00 | @pausecoffea | <https://goo.gl/maps/shEPtuaZU6ZtJebs7> | [Mekan Bilgileri](https://www.pausecoffea.com/magazalar/ataturk) |
+
 
 ## 📚 Mersin
 

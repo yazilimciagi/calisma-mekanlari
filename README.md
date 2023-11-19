@@ -40,7 +40,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Kahramanlar - Alsancak            | Home Cafe and Hub    | N/A         | Çoğu masada mevcut     | Mevcut | 50-60 Mbps   | 2/10             | 09:00 - 22:00    | @homecafetr         | [Google Maps](https://goo.gl/maps/8PYBZ4t4hSXHcAY26)    | N/A    |
 | Karşıyaka - Mavişehir             | La Puerta Experience | N/A       | En dış masalar hariç   | Mevcut | 200 Mbps     | 8/10             | 12:00 - 01:00    | @lapuertaexperience | [Google Maps](https://maps.app.goo.gl/MvhTwwR6NfUFz8gv6) | N/A |
 | Bostanlı                          | Cortado Coffee       |N/A     | Çoğu masada mevcut   | Mevcut | 400-500 Mbps | 9/10             | 10:00 - 01:00    | @cortadocoffeeizmirr | [Google Maps](https://maps.app.goo.gl/RebD3e68VgXDZ2bQ6) | 👨‍🎨 2D Sanat İle Tanışın |
-| Karşıyaka                         | Durock               | N/A         | Orta masalar hariç     | 300 Mbps (5GHz)       | 8/10             | 13:00 - 02:00    | @durocksocialhouse  | [Google Maps](https://maps.app.goo.gl/T5kWkGL188DZJrtp9) | N/A |
+| Karşıyaka                         | Durock               | N/A         | Orta masalar hariç     | Mevcut | 300 Mbps (5GHz)       | 8/10             | 13:00 - 02:00    | @durocksocialhouse  | [Google Maps](https://maps.app.goo.gl/T5kWkGL188DZJrtp9) | N/A |
 
 ## 📚 İstanbul
 

@@ -6,28 +6,26 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 * ➕ Eklemek istediğiniz mekanı `README.md` içinde yazınız.
 * 🔄 Sonra GitHub'a `dev` branchından pushlayıp `main` a merge request açınız.
 
+## Ekli Şehirler
 
-## Ekli Şehirler:
-
-- [Afyonkarahisar](#-afyonkarahisar)
-- [Antalya](#-antalya)
-- [Ankara](#-ankara)
-- [Aydın](#-aydin)
-- [Bursa](#-bursa)
-- [Isparta](#-isparta)
-- [İstanbul](#-i̇stanbul)
-- [İzmir](#-i̇zmir)
-- [Manisa](#-manisa)
-- [Mersin](#-mersin)
-- [Mugla](#-mugla)
-- [Sakarya](#-sakarya)
-- [Trabzon](#-trabzon)
+* [Afyonkarahisar](#-afyonkarahisar)
+* [Antalya](#-antalya)
+* [Ankara](#-ankara)
+* [Aydın](#-aydin)
+* [Bursa](#-bursa)
+* [Isparta](#-isparta)
+* [İstanbul](#-i̇stanbul)
+* [İzmir](#-i̇zmir)
+* [Manisa](#-manisa)
+* [Mersin](#-mersin)
+* [Mugla](#-mugla)
+* [Sakarya](#-sakarya)
+* [Trabzon](#-trabzon)
 
 ## Web UI
 
 🌐 https://calisma-mekanlari-app.vercel.app/
 👏 Thank you for Web UI [@code-a-man](https://github.com/code-a-man)
-
 
 ## 📚 İzmir
 
@@ -61,7 +59,6 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Bebek                | Caffe Nero Bebek             | N/A         | N/A                    | Mevcut | N/A                    | 5/10             | 07:00 - 23:00    | N/A | <https://goo.gl/maps/iWUoCNZa9fh1jygb8>           | N/A    |
 | Harbiye                | Espressolab Taşkışla             | N/A         | N/A                    | Mevcut | N/A                    | 5/10             | 07:00 - 00:00    | N/A | <https://goo.gl/maps/1mkgPCocXwCtjUL28>           | N/A    |
 | Caddebostan                | Caffè Nero             | Kafe         | Duvar kenarı masalarda mevcut                    | Mevcut | N/A                    | 6/10             | 08:00 - 23:00    | @caffeneroturkiye | <https://goo.gl/maps/z8YhpXo9kJVAHfcg7>           | N/A    |
-
 
 ## 📚 Ankara
 
@@ -97,7 +94,6 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Kuşadası | SmartBirds | Workington  | Mevcut                                       | Mevcut | 100Mbps   | 0/10                     | 08:00-19:00      | @smart_birds_coworking | N/A    | Günlük, haftalık, aylık abonelik mümkün, kahve çay ikramlar mevcut                      |
 | Efeler  | Daniels Coffee  | N/A         | Çalışma salonunda her masada mevcut          | Mevcut | 500 Mbps   | 5/10                     | 10:00 - 22:00    | @danielscoffee.aydin           | <https://goo.gl/maps/C6Nvdfch3BP5hnPA6>   | Nispeten gündüz saatleri daha rahat , akşam saatleri biraz daha sohbet sesleri artabilir.           |
 
-
 ## 📚 Manisa
 
 | Konum | İsim | Kategoriler | Priz | WIFI   | WIFI Hızı  | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi | Harita | Notlar |
@@ -113,7 +109,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Prime AVM - Merkez | Pause Coffea Prime | Kafe | Bazı masalarda mevcut | N/A | N/A | N/A | 08:00 - 02:00 | @pausecoffea | <https://goo.gl/maps/EkjQEGQuWYyZeFaK9> | [Mekan Bilgileri](https://www.pausecoffea.com/magazalar/prime) |
 | Cumhuriyet - Salihli | Pause Coffea Salihli | Kafe | Bazı masalarda mevcut | N/A | N/A | N/A | 07:00 - 01:00 | @pausecoffea | <https://goo.gl/maps/Nh11m7znGNPUwuPd7> | [Mekan Bilgileri](https://www.pausecoffea.com/magazalar/salihli) |
 | Atatürk - Akhisar | Pause Coffea Akhisar | Kafe | Bazı masalarda mevcut | N/A | N/A | N/A | 09:00 - 01:00 | @pausecoffea | <https://goo.gl/maps/shEPtuaZU6ZtJebs7> | [Mekan Bilgileri](https://www.pausecoffea.com/magazalar/ataturk) |
-
+| Sanayi / 75.Yıl - Merkez | Simit Dünyası | Kafe | Çoğu masada mevcut | Mevcut - Şifresi: `Simitdunyasi45` | [25/14 MBPS (Türk Telekom)](https://www.speedtest.net/result/15601894316) | Kahvaltı saatlerinde biraz sesli onun dışında rahat | 06.30-22.00 | @manisasimitdunyasi | <https://maps.app.goo.gl/oZ2GVTYrpFromFGp8> | [Mekan Bilgileri](http://www.manisasimitdunyasi.com/subelerimiz.html) |
 
 ## 📚 Mersin
 

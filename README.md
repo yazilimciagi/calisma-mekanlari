@@ -6,28 +6,26 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 * ➕ Eklemek istediğiniz mekanı `README.md` içinde yazınız.
 * 🔄 Sonra GitHub'a `dev` branchından pushlayıp `main` a merge request açınız.
 
+## Ekli Şehirler
 
-## Ekli Şehirler:
-
-- [Afyonkarahisar](#-afyonkarahisar)
-- [Antalya](#-antalya)
-- [Ankara](#-ankara)
-- [Aydın](#-aydin)
-- [Bursa](#-bursa)
-- [Isparta](#-isparta)
-- [İstanbul](#-i̇stanbul)
-- [İzmir](#-i̇zmir)
-- [Manisa](#-manisa)
-- [Mersin](#-mersin)
-- [Mugla](#-mugla)
-- [Sakarya](#-sakarya)
-- [Trabzon](#-trabzon)
+* [Afyonkarahisar](#-afyonkarahisar)
+* [Antalya](#-antalya)
+* [Ankara](#-ankara)
+* [Aydın](#-aydin)
+* [Bursa](#-bursa)
+* [Isparta](#-isparta)
+* [İstanbul](#-i̇stanbul)
+* [İzmir](#-i̇zmir)
+* [Manisa](#-manisa)
+* [Mersin](#-mersin)
+* [Mugla](#-mugla)
+* [Sakarya](#-sakarya)
+* [Trabzon](#-trabzon)
 
 ## Web UI
 
 🌐 https://calisma-mekanlari-app.vercel.app/
 👏 Thank you for Web UI [@code-a-man](https://github.com/code-a-man)
-
 
 ## 📚 İzmir
 
@@ -61,7 +59,6 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Bebek                | Caffe Nero Bebek             | N/A         | N/A                    | Mevcut | N/A                    | 5/10             | 07:00 - 23:00    | N/A | <https://goo.gl/maps/iWUoCNZa9fh1jygb8>           | N/A    |
 | Harbiye                | Espressolab Taşkışla             | N/A         | N/A                    | Mevcut | N/A                    | 5/10             | 07:00 - 00:00    | N/A | <https://goo.gl/maps/1mkgPCocXwCtjUL28>           | N/A    |
 | Caddebostan                | Caffè Nero             | Kafe         | Duvar kenarı masalarda mevcut                    | Mevcut | N/A                    | 6/10             | 08:00 - 23:00    | @caffeneroturkiye | <https://goo.gl/maps/z8YhpXo9kJVAHfcg7>           | N/A    |
-
 
 ## 📚 Ankara
 

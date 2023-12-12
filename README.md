@@ -71,6 +71,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Çankaya | Kika Kitap - Kafe | N/A         | Her masada mevcut                   | Mevcut | N/A       | 4/10             | 10:00 - 22:00    | @kikakitapkafe             | N/A    | Kentpark AVM'nin en üst katında aslında bir kitapçı fakat içindeki kafe kısmı çalışmak için çok müsait. Her masada priz var ve kahveleri, tatlıları gayet iyi.                                 |
 | Çankaya | Quito Coffee      | N/A         | Çoğu masada mevcut                  | Mevcut | N/A       | 3/10             | 08:00 - 23:00    | @quitocoffee               | N/A    | Üst katı ve bahçedeki masaları gayet rahat ve çalışılabilir. Kocatepe Camii'ye giden Selanik Caddesi bitiminde.
 | Çankaya | R.O.R      | N/A         | Çoğu masada mevcut                  | Mevcut | N/A       | 5/10             | 08:00 - 24:00    | @rorcaferoastery  | <https://maps.app.goo.gl/fh4KerB8Qrqb2VQr7>  | Arka ve ön bahçedeki masalarada çalışılabilir. Ufak bir yer bu nedenle bir miktar kalabalık olabiliyor.                                                                                 ||
+| Çankaya | Hoopoe Coffee      | N/A         | İçerideki iki masada mevcut                  | Mevcut | 50 Mbps      | 1/10             | 10:30 - 23:30    | @hoopoecoffee  | <https://maps.app.goo.gl/wHi4hf9Wu7S1aB4K6>  | Mekan biraz küçük ama kalabalık olmadığı için gürültü sorunu olmuyor.    
 
 ## 📚 Antalya
 

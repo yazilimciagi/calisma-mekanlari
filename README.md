@@ -42,23 +42,28 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 
 ## 📚 İstanbul
 
-| Konum                   | İsim                         | Kategoriler | Priz                                     | WIFI   | WIFI Hızı              | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi      | Harita                                      | Notlar |
-| ----------------------- | ---------------------------- | ----------- | ---------------------------------------- | ------ | ---------------------- | ---------------- | ---------------- | --------------------- | ------------------------------------------- | ------ |
-| Yeşilköy                | Caffè Nero                   | N/A         | İçeride üst katta çoğunlukla             | Mevcut | 30 Mbps                | 4/10             | 09:00 - 00:00    | @caffeneroturkiye     | <https://goo.gl/maps/sNjVqirv99sF7LUP8>     | N/A    |
-| Beşiktaş                | O Coffee                     | N/A         | Sadece mekanın içerisindeki masalarda    | Mevcut | N/A                    | 6/10             | 10:00 - 01:00    | @ocoffeecompany       | <https://goo.gl/maps/AFVKkf1kiSz364cT8>     | N/A    |
-| Beşiktaş                | Baracca Cafe                 | N/A         | Çoğu masada mevcut                       | Mevcut | N/A                    | 3/10             | 08:30 - 00:30    | N/A                   | <https://goo.gl/maps/V9HFmFDtPCXTvR9Q8>     | N/A    |
-| Nişantaşı               | MOC Nişantaşı                | N/A         | Çoğu masada mevcut                       | Mevcut | N/A                    | 6/10             | 07:30 - 23:30    | @moc_coffeeofficial   | <https://goo.gl/maps/pijwD26HYWoC9GXH8>     | N/A    |
-| Galataport yanı         | Astrolabe Coffee House       | N/A         | Duvar Kenarı, orta büyük masa            | Mevcut | N/A                    | 3/10             | 08:00 - 23:00    | @astrolabeturkey      | <https://maps.app.goo.gl/Ws2SRmTy32xjtvVs9> | N/A    |
-| Kadıköy, Moda Sahili    | Moda İskelesi Kütüphanesi    | Manzara     | Çoğu masada mevcut                       | Mevcut | 0-10 Mbps              | 3/10             | 09:00 - 22:00    | N/A                   | <https://goo.gl/maps/FaCn4rzU51gGvjNv9>     | N/A    |
-| Suadiye                 | Espresso Park                | N/A         | Çoğu masada mevcut                       | Mevcut | 5-15 Mbps              | 2/10             | 09:00 - 22:00    | @espressoparktr       | <https://goo.gl/maps/2roAKvfeYGCb2TREA>     | N/A    |
-| İdealtepe               | NockNock Coffee              | N/A         | Çoğu masada mevcut                       | Mevcut | 10-25 Mbps             | 2/10             | 08:00 - 01:00    | @nocknockcoffee       | <https://goo.gl/maps/pmkm9sXtV26d5Uxa8>     | N/A    |
-| Kadıköy, Moda           | Yer                          | N/A         | Duvar kenarı masalarda mevcut            | Mevcut | 50 Mbps                | 5/10             | 09:30 - 01:30    | @yer_moda             | <https://goo.gl/maps/VHvCtJdu84PHyu3y7>     | N/A    |
-| Kadıköy, Bağdat Caddesi | Mikel Coffee                 | Yer         | Duvar kenarı masalarda mevcut            | Mevcut | D:100 Mbps / U:10 Mbps | 3/10             | 07:30 - 23:00    | @mikelcoffee_tr       | <https://maps.app.goo.gl/xK7WrTGA4fpPG7An9> | N/A    |
-| Beşiktaş                | Coffee Talks                 | N/A         | Çoğu masada mevcut                       | Mevcut | N/A                    | 4/10             | 08:00 - 02:30    | @coffeetalksneverends | <https://goo.gl/maps/YMiFLmCBFAXLGHLs7>     | N/A    |
-| Çengelköy               | EspressoLab Çengelköy-İskele | N/A         | Bahçeye bakan giriş kat ve üst katta var | Mevcut | N/A                    | 3/10             | 08:00 - 02:00    | @espressolabtr        | <https://goo.gl/maps/A5HhagKTM1CYVaNz5>     | N/A    |
-| Bebek                   | Caffe Nero Bebek             | N/A         | N/A                                      | Mevcut | N/A                    | 5/10             | 07:00 - 23:00    | N/A                   | <https://goo.gl/maps/iWUoCNZa9fh1jygb8>     | N/A    |
-| Harbiye                 | Espressolab Taşkışla         | N/A         | N/A                                      | Mevcut | N/A                    | 5/10             | 07:00 - 00:00    | N/A                   | <https://goo.gl/maps/1mkgPCocXwCtjUL28>     | N/A    |
-| Caddebostan             | Caffè Nero                   | Kafe        | Duvar kenarı masalarda mevcut            | Mevcut | N/A                    | 6/10             | 08:00 - 23:00    | @caffeneroturkiye     | <https://goo.gl/maps/z8YhpXo9kJVAHfcg7>     | N/A    |
+| Konum                   | İsim                         | Kategoriler | Priz                                     | WIFI   | WIFI Hızı              | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi       | Harita                                      | Notlar |
+| ----------------------- | ---------------------------- | ----------- | ---------------------------------------- | ------ | ---------------------- | ---------------- | ---------------- | ---------------------- | ------------------------------------------- | ------ |
+| Yeşilköy                | Caffè Nero                   | N/A         | İçeride üst katta çoğunlukla             | Mevcut | 30 Mbps                | 4/10             | 09:00 - 00:00    | @caffeneroturkiye      | <https://goo.gl/maps/sNjVqirv99sF7LUP8>     | N/A    |
+| Beşiktaş                | O Coffee                     | N/A         | Sadece mekanın içerisindeki masalarda    | Mevcut | N/A                    | 6/10             | 10:00 - 01:00    | @ocoffeecompany        | <https://goo.gl/maps/AFVKkf1kiSz364cT8>     | N/A    |
+| Beşiktaş                | Baracca Cafe                 | N/A         | Çoğu masada mevcut                       | Mevcut | N/A                    | 3/10             | 08:30 - 00:30    | N/A                    | <https://goo.gl/maps/V9HFmFDtPCXTvR9Q8>     | N/A    |
+| Nişantaşı               | MOC Nişantaşı                | N/A         | Çoğu masada mevcut                       | Mevcut | N/A                    | 6/10             | 07:30 - 23:30    | @moc_coffeeofficial    | <https://goo.gl/maps/pijwD26HYWoC9GXH8>     | N/A    |
+| Galataport yanı         | Astrolabe Coffee House       | N/A         | Duvar Kenarı, orta büyük masa            | Mevcut | N/A                    | 3/10             | 08:00 - 23:00    | @astrolabeturkey       | <https://maps.app.goo.gl/Ws2SRmTy32xjtvVs9> | N/A    |
+| Kadıköy, Moda Sahili    | Moda İskelesi Kütüphanesi    | Manzara     | Çoğu masada mevcut                       | Mevcut | 0-10 Mbps              | 3/10             | 09:00 - 22:00    | N/A                    | <https://goo.gl/maps/FaCn4rzU51gGvjNv9>     | N/A    |
+| Suadiye                 | Espresso Park                | N/A         | Çoğu masada mevcut                       | Mevcut | 5-15 Mbps              | 2/10             | 09:00 - 22:00    | @espressoparktr        | <https://goo.gl/maps/2roAKvfeYGCb2TREA>     | N/A    |
+| İdealtepe               | NockNock Coffee              | N/A         | Çoğu masada mevcut                       | Mevcut | 10-25 Mbps             | 2/10             | 08:00 - 01:00    | @nocknockcoffee        | <https://goo.gl/maps/pmkm9sXtV26d5Uxa8>     | N/A    |
+| Kadıköy, Moda           | Yer                          | N/A         | Duvar kenarı masalarda mevcut            | Mevcut | 50 Mbps                | 5/10             | 09:30 - 01:30    | @yer_moda              | <https://goo.gl/maps/VHvCtJdu84PHyu3y7>     | N/A    |
+| Kadıköy, Bağdat Caddesi | Mikel Coffee                 | Yer         | Duvar kenarı masalarda mevcut            | Mevcut | D:100 Mbps / U:10 Mbps | 3/10             | 07:30 - 23:00    | @mikelcoffee_tr        | <https://maps.app.goo.gl/xK7WrTGA4fpPG7An9> | N/A    |
+| Beşiktaş                | Coffee Talks                 | N/A         | Çoğu masada mevcut                       | Mevcut | N/A                    | 4/10             | 08:00 - 02:30    | @coffeetalksneverends  | <https://goo.gl/maps/YMiFLmCBFAXLGHLs7>     | N/A    |
+| Çengelköy               | EspressoLab Çengelköy-İskele | N/A         | Bahçeye bakan giriş kat ve üst katta var | Mevcut | N/A                    | 3/10             | 08:00 - 02:00    | @espressolabtr         | <https://goo.gl/maps/A5HhagKTM1CYVaNz5>     | N/A    |
+| Bebek                   | Caffe Nero Bebek             | N/A         | N/A                                      | Mevcut | N/A                    | 5/10             | 07:00 - 23:00    | N/A                    | <https://goo.gl/maps/iWUoCNZa9fh1jygb8>     | N/A    |
+| Harbiye                 | Espressolab Taşkışla         | N/A         | N/A                                      | Mevcut | N/A                    | 5/10             | 07:00 - 00:00    | N/A                    | <https://goo.gl/maps/1mkgPCocXwCtjUL28>     | N/A    |
+| Caddebostan             | Caffè Nero                   | Kafe        | Duvar kenarı masalarda mevcut            | Mevcut | N/A                    | 6/10             | 08:00 - 23:00    | @caffeneroturkiye      | <https://goo.gl/maps/z8YhpXo9kJVAHfcg7>     | N/A    |
+| Caddebostan             | Books & Coffee               | Kafe        | Çoğu masada mevcut                       | Mevcut | N/A                    | 3/10             | 09:00 - 22:00    | @booksandcoffeeturkiye | <https://maps.app.goo.gl/7Y9Q6yfKaqatpQdY7> | N/A    |
+| Karaköy                 | Books & Coffee               | Kafe        | Bazı masalarda var                       | Mevcut | N/A                    | 3/10             | 09:00 - 23:00    | @booksandcoffeeturkiye | <https://maps.app.goo.gl/KNxfVv9UmcazmCSm6> | N/A    |
+| Caferağa                | Walter's Coffee Roastery     | Cafe        | Çoğu masada mevcut                       | Mevcut | N/A                    | 3/10             | 10:00 - 23:00    | @walterscoffee         | <https://maps.app.goo.gl/NRQZ7xNsFkX5rt6B9> | N/A    |
+| Beyoğlu                 | Türk Alman Kitabevi & Cafe   | Cafe        | Çoğu masada mevcut                       | Mevcut | N/A                    | 4/10             | 07:00 - 23:00    | @turkalmankitabevicafe | <https://maps.app.goo.gl/T2AsozoFMjyZngnd7> | N/A    |
+| Taksim                  | Straborn Coffee AKM Taksim   | Cafe        | Her masada mevcut                        | Mevcut | 100-150 Mbps           | 2/10             | 09:00 - 22:00    | @straborncoffee        | <https://maps.app.goo.gl/BjBNcPPjqnESKQiv6> | N/A    |
 
 ## 📚 Ankara
 
@@ -75,10 +80,12 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 
 ## 📚 Antalya
 
-| Konum     | İsim       | Kategoriler | Priz                   | WIFI   | WIFI Hızı | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi | Harita                                  | Notlar |
-| --------- | ---------- | ----------- | ---------------------- | ------ | --------- | ---------------- | ---------------- | ---------------- | --------------------------------------- | ------ |
-| Lara      | Coffee Lab | N/A         | Çoğu masada mevcut     | Mevcut | N/A       | N/A              | 07:30 - 00:00    | @coffeelabtr     | <https://goo.gl/maps/P3gPRApPt1RF47Qr7> | N/A    |
-| Konyaaltı | Coffee's   | N/A         | Duvar kenarı masalarda | Mevcut | N/A       | N/A              | 07:45 - 00:30    | @coffeesmycafe   | <https://goo.gl/maps/5oSs1JuLB3qgS72ZA> | N/A    |
+| Konum     | İsim             | Kategoriler  | Priz                   | WIFI   | WIFI Hızı | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi | Harita                                      | Notlar |
+| --------- | ---------------- | ------------ | ---------------------- | ------ | --------- | ---------------- | ---------------- | ---------------- | ------------------------------------------- | ------ |
+| Lara      | Coffee Lab       | N/A          | Çoğu masada mevcut     | Mevcut | N/A       | N/A              | 07:30 - 00:00    | @coffeelabtr     | <https://goo.gl/maps/P3gPRApPt1RF47Qr7>     | N/A    |
+| Konyaaltı | Coffee's         | N/A          | Duvar kenarı masalarda | Mevcut | N/A       | N/A              | 07:45 - 00:30    | @coffeesmycafe   | <https://goo.gl/maps/5oSs1JuLB3qgS72ZA>     | N/A    |
+| Muratpaşa | Poe Coffee House | Cafe         | Çoğu masada mevcut     | Mevcut | 70 Mbps   | 2/10             | 09:00 - 00:00    | @poebookcoffee   | <https://maps.app.goo.gl/ADQ7ubvAYCLpZUoX6> | N/A    |
+| Muratpaşa | Başka Ol         | Kahve, Yemek | Çoğu masada mevcut     | Mevcut | N/A       | 6/10             | 08:30 - 00:00    | @baska.ol        | <https://maps.app.goo.gl/uzGkSE2LWn9Jz4Zz7> | N/A    |
 
 ## 📚 Bursa
 
@@ -151,12 +158,13 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 
 ## 📚 Mugla
 
-| Konum    | İsim                           | Kategoriler | Priz                          | WIFI   | WIFI Hızı  | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi | Harita                                  | Notlar |
-| -------- | ------------------------------ | ----------- | ----------------------------- | ------ | ---------- | ---------------- | ---------------- | ---------------- | --------------------------------------- | ------ |
-| Koycegiz | Mackbear Coffee                | Kahve       | Masaların Yarısında Var       | Mevcut | 15-30 Mbps | 7/10             | 09.00 - 01.00    | N/A              | <https://goo.gl/maps/mn1jZMsiffu7df8VA> | N/A    |
-| Koycegiz | Avangart Cafe & Restaurant     | Cafe        | Dışarıdaki Masalarda Yok      | Mevcut | 10-25 Mbps | 5/10             | 09.00 - 02.00    | N/A              | <https://goo.gl/maps/k1s4Anat3Yfknm3w5> | N/A    |
-| Koycegiz | Yuvarlakçay Topgözü Restaurant | Restaurant  | Az Masada Mevcut              | Mevcut | 10-20 Mbps | 4/10             | 10.00 - 00.00    | N/A              | <https://goo.gl/maps/ihXgzcZi4c6SAjT19> | N/A    |
-| Ortaca   | Coffee Zemata                  | Kahve       | İçeride Mevcut, Workspace Var | Mevcut | 0-10 Mbps  | 6/10             | 09.00 - 00.00    | N/A              | <https://goo.gl/maps/9XBNmYgYXL9V5w3WA> | N/A    |
+| Konum    | İsim                           | Kategoriler | Priz                          | WIFI   | WIFI Hızı  | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi    | Harita                                      | Notlar |
+| -------- | ------------------------------ | ----------- | ----------------------------- | ------ | ---------- | ---------------- | ---------------- | ------------------- | ------------------------------------------- | ------ |
+| Koycegiz | Mackbear Coffee                | Kahve       | Masaların Yarısında Var       | Mevcut | 15-30 Mbps | 7/10             | 09.00 - 01.00    | N/A                 | <https://goo.gl/maps/mn1jZMsiffu7df8VA>     | N/A    |
+| Koycegiz | Avangart Cafe & Restaurant     | Cafe        | Dışarıdaki Masalarda Yok      | Mevcut | 10-25 Mbps | 5/10             | 09.00 - 02.00    | N/A                 | <https://goo.gl/maps/k1s4Anat3Yfknm3w5>     | N/A    |
+| Koycegiz | Yuvarlakçay Topgözü Restaurant | Restaurant  | Az Masada Mevcut              | Mevcut | 10-20 Mbps | 4/10             | 10.00 - 00.00    | N/A                 | <https://goo.gl/maps/ihXgzcZi4c6SAjT19>     | N/A    |
+| Ortaca   | Coffee Zemata                  | Kahve       | İçeride Mevcut, Workspace Var | Mevcut | 0-10 Mbps  | 6/10             | 09.00 - 00.00    | N/A                 | <https://goo.gl/maps/9XBNmYgYXL9V5w3WA>     | N/A    |
+| Datça    | The Coffee Grinder             | Cafe        | Çalışma masaında mevcut       | Mevcut | N/A        | 3/10             | 08.00 - 00.00    | @coffeegrinderdatca | <https://maps.app.goo.gl/diHVG2mhRYoaX6cKA> | N/A    |
 
 ## 📚 Sakarya
 

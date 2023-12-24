@@ -84,3 +84,17 @@
     @apply bg-background text-foreground;
   }
 }
+
+@layer components {
+  .image-container {
+    background: radial-gradient(
+      80% 80% at top left,
+      rgba(15, 23, 42, 100%),
+      transparent
+    );
+  }
+
+  .venue-card:hover .image-container {
+    opacity: 100%;
+  }
+}

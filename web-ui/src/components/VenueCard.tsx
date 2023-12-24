@@ -1,5 +1,5 @@
 import { VenueData } from "@/types/types";
-import { Clock, Map, Plug, Volume2, Wifi } from "lucide-react";
+import { Clock, Info, Instagram, Map, Plug, Volume2, Wifi } from "lucide-react";
 import Image from "next/image";
 import React, { useEffect, useState } from "react";
 import { Button } from "@/components/ui/button";
@@ -12,6 +12,14 @@ import {
   TooltipProvider,
   TooltipTrigger,
 } from "@/components/ui/tooltip";
+import {
+  Dialog,
+  DialogContent,
+  DialogDescription,
+  DialogHeader,
+  DialogTitle,
+  DialogTrigger,
+} from "@/components/ui/dialog";
 
 const VenueCard = ({ venue }: { venue: VenueData }) => {
   const [isImageLoading, setIsImageLoading] = useState(true);
@@ -38,11 +46,48 @@ const VenueCard = ({ venue }: { venue: VenueData }) => {
   });
 
   return (
-    <div className="rounded-2xl flex flex-col border p-6">
+    <div className="rounded-2xl flex flex-col border p-6 venue-card">
       {isImageLoading ? (
         <Skeleton className="w-full h-60 mb-5 rounded-[0.5rem]" />
       ) : (
         <div className="relative w-full h-60 mb-5">
+          {(venue.notlar || venue.instagram) && (
+            <div className="w-full opacity-0 transition-opacity absolute z-10 h-full rounded-[0.5rem] image-container">
+              <Dialog>
+                <DialogTrigger asChild>
+                  <Button
+                    className="absolute z-20 mt-3 ml-3 border-0"
+                    size="icon"
+                    variant="outline"
+                  >
+                    <Info className="w-4 h-4" />
+                  </Button>
+                </DialogTrigger>
+                <DialogContent>
+                  <DialogHeader className="grid w-full gap-y-4 space-y-0">
+                    <DialogTitle>{venue.isim} Hakkında Notlar</DialogTitle>
+                    <DialogDescription className="grid w-full gap-y-4">
+                      {venue.notlar && venue.notlar}
+                      {venue.instagram && (
+                        <Button asChild className="w-full" variant="outline">
+                          <Link
+                            href={`https://instagram.com/${venue.instagram.replace(
+                              "@",
+                              ""
+                            )}`}
+                            target="_blank"
+                          >
+                            <Instagram className="w-4 h-4 mr-2" />
+                            {venue.instagram}
+                          </Link>
+                        </Button>
+                      )}
+                    </DialogDescription>
+                  </DialogHeader>
+                </DialogContent>
+              </Dialog>
+            </div>
+          )}
           <Image
             alt={venue.isim}
             className="object-cover rounded-[0.5rem]"
@@ -60,7 +105,7 @@ const VenueCard = ({ venue }: { venue: VenueData }) => {
           <Tooltip>
             <TooltipTrigger className="w-fit">
               <div className="flex items-center text-muted-foreground">
-                <Clock className="w-5 h-5 mr-2" />
+                <Clock className="w-5 h-5 mr-2 min-w-[1.25rem]" />
                 <p className="text-base font-medium text-left">
                   {venue.calismaSaatleri}
                 </p>
@@ -75,7 +120,7 @@ const VenueCard = ({ venue }: { venue: VenueData }) => {
           <Tooltip>
             <TooltipTrigger className="w-fit">
               <div className="flex items-center text-muted-foreground">
-                <Wifi className="w-5 h-5 mr-2" />
+                <Wifi className="w-5 h-5 mr-2 min-w-[1.25rem]" />
                 <p className="text-base font-medium text-left">
                   {venue.wifi === "N/A"
                     ? "N/A"

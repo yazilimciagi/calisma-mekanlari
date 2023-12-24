@@ -41,7 +41,11 @@ export const GET = async () => {
               kategoriler: rowData[2],
               priz: rowData[3],
               wifi: rowData[4],
-              wifiHiz: rowData[5],
+              // Remove URL from wifiHiz if it exists.
+              wifiHiz: rowData[5].replace(
+                /[(http(s)?):\/\/(www\.)?a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#?&//=]*)/gi,
+                ""
+              ),
               gurultu: rowData[6],
               calismaSaatleri: rowData[7],
               instagram: rowData[8] === "N/A" ? null : rowData[8],

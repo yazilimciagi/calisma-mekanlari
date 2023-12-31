@@ -166,7 +166,6 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Koycegiz | Yuvarlakçay Topgözü Restaurant | Restaurant  | Az Masada Mevcut              | Mevcut | 10-20 Mbps | 4/10             | 10.00 - 00.00    | N/A                 | <https://goo.gl/maps/ihXgzcZi4c6SAjT19>     | N/A    |
 | Ortaca   | Coffee Zemata                  | Kahve       | İçeride Mevcut, Workspace Var | Mevcut | 0-10 Mbps  | 6/10             | 09.00 - 00.00    | N/A                 | <https://goo.gl/maps/9XBNmYgYXL9V5w3WA>     | N/A    |
 | Datça    | The Coffee Grinder             | Cafe        | Çalışma masaında mevcut       | Mevcut | N/A        | 3/10             | 08.00 - 00.00    | @coffeegrinderdatca | <https://maps.app.goo.gl/diHVG2mhRYoaX6cKA> | N/A    |
-
 ## 📚 Sakarya
 
 | Konum    | İsim              | Kategoriler        | Priz                              | WIFI   | WIFI Hızı  | Gürültü Seviyesi                               | Çalışma Saatleri | Instagram Adresi | Harita                                  | Notlar |
@@ -174,3 +173,5 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Serdivan | Federal Coffee Co | Kahve / Restaurant | Çoğu masada mevcut                | Mevcut | 10-20 Mbps | 4/10                                           | 09.30 - 01.00    | @federalsakarya  | <https://goo.gl/maps/x5Pny1PNarqP5hRN6> | N/A    |
 | Serdivan | Tworoutes         | Cafe               | Çoğu masada mevcut                | Mevcut | 5-15 Mbps  | 6/10                                           | 10.00 - 01.00    | @tworoutes       | <https://goo.gl/maps/nm2uchFJdrwe78TbA> | N/A    |
 | Serdivan | Coffee And Study  | Cafe               | Çoğu masada mevcut, workspace var | Mevcut | 5-25 Mbps  | 5/10(`ayrıca kişisel çalışma alanı bulunuyor`) | 08.30 - 01.00    | N/A              | <https://goo.gl/maps/LVLfmT2sWkzAT7X78> | N/A    |
+| Serdivan / Cadde 54 | Gloria Jean's Coffees  | Cafe               | Çoğu masada mevcut, workspace var | Mevcut | 5-20 Mbps  | 5/10(`ayrıca kişisel çalışma alanı bulunuyor`) | 09.00 - 23.00    |  @gjcsturkey  | <https://g.co/kgs/cDFn1uo> | N/A    |
+| Adapazarı | Caribou | Kahve  | Genellikle mevcut | Mevcut | 5-20 Mbps | 4/10   | 09.00 - 23.00 | @cariboucoffee  | <https://g.co/kgs/4xk7vyS> | N/A |

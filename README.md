@@ -88,6 +88,9 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | -------- | ---------- | ----------- | -------------------------------------------- | ------ | --------- | ------------------------ | ---------------- | ---------------------- | ------ | --------------------------------------------------------------------------------------- |
 | Efeler   | Chocolabs  | Çikolatacı  | Bahçede ve kapalı kısımda çoğu masada mevcut | Mevcut | 50 Mbps   | 4/10 (haftasonları 7/10) | 10:00 - 24:00    | @chocolabs_aydin       | N/A    | AVM içerisinde yer alıyor, haftaiçi çalışmak için uygun ancak haftasonu fazla kalabalık |
 | Kuşadası | SmartBirds | Workington  | Mevcut                                       | Mevcut | 100Mbps   | 0/10                     | 08:00-19:00      | @smart_birds_coworking | N/A    | Günlük, haftalık, aylık abonelik mümkün, kahve çay ikramlar mevcut                      |
+| Efeler | Daniels Doğugazi | 3th Wave Coffee Shop  | Mevcut                         | Mevcut | 100Mbps   | 1/10                     | 08:00-23:00      | @danielscoffee.aydin | N/A      | 3 farklı çalışma alanı mevcut, masalar geniş, kahveler iyi                              |
+| Efeler | Daniels Sevgiyolu | 3th Wave Coffee Shop  | Mevcut                        | Mevcut | 100Mbps   | 2/10                     | 08:00-23:00      | @danielscoffee.aydin | N/A      | 2 farklı çalışma alanı mevcut, masalar geniş, kahveler iyi                              |
+| Efeler | Tuck Coffee | 3th Wave Coffee Shop  | Mevcut                              | Mevcut | 100Mbps   | 2/10                     | 08:00-23:00      | @tuckcoffee          | N/A      | İçeride çalışmak için bir geniş masa var, diğerleri nispeten tek kişilik çalışmaya uygun                             |
 
 ## 📚 Manisa
 

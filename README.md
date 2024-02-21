@@ -36,7 +36,10 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Narlıdere - DEU GSF Karşısı       | Pablo Artisan Kafe | N/A         | Duvar kenarı masalarda | Mevcut | 50 Mbps    | 2/10             | 09:00 - 21:00    | @pabloartisancoffee | N/A                                                  | N/A    |
 | Kıbrıs Şehitleri - Sevinç Karşısı | Starbucks          | N/A         | Çoğu masada mevcut     | Mevcut | 10-25 Mbps | 7/10             | 08:00 - 22:00    | @starbucks_tr       | N/A                                                  | N/A    |
 | Kahramanlar - Alsancak            | Home Cafe and Hub  | N/A         | Çoğu masada mevcut     | Mevcut | 50-60 Mbps | 2/10             | 09:00 - 22:00    | @homecafetr         | [Google Maps](https://goo.gl/maps/8PYBZ4t4hSXHcAY26) | N/A    |
+
 |Alsancak Tekel Fabrikası | Kahve Dünyası | N/A | Teras harici mevcut | Mevcut | 15-20 Mpbs | 6/10 | 08:00 - 22.30 | @kahvedunyasi | [Google Maps](https://maps.app.goo.gl/2EfVSq9tpitRPAAz7)| N/A
+
+
 
 ## 📚 İstanbul
 
@@ -51,6 +54,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Suadiye                 | Espresso Park             | N/A         | Çoğu masada mevcut                    | Mevcut | 5-15 Mbps              | 2/10             | 09:00 - 22:00    | @espressoparktr     | <https://goo.gl/maps/2roAKvfeYGCb2TREA>     | N/A    |
 | İdealtepe               | NockNock Coffee           | N/A         | Çoğu masada mevcut                    | Mevcut | 10-25 Mbps             | 2/10             | 08:00 - 01:00    | @nocknockcoffee     | <https://goo.gl/maps/pmkm9sXtV26d5Uxa8>     | N/A    |
 | Kadıköy, Moda           | Yer                       | N/A         | Duvar kenarı masalarda mevcut         | Mevcut | 50 Mbps                | 5/10             | 09:30 - 01:30    | @yer_moda           | <https://goo.gl/maps/VHvCtJdu84PHyu3y7>     | N/A    |
+
 | Kadıköy, Bağdat Caddesi | Mikel Coffee              | Yer         | Duvar kenarı masalarda mevcut         | Mevcut | D:100 Mbps / U:10 Mbps | 3/10             | 07:30 - 23:00    | @mikelcoffee_tr     | <https://maps.app.goo.gl/xK7WrTGA4fpPG7An9> | N/A   
 |Bahçelievler |	Patika Kafe|	N/A|	Çoğu masada mevcut|	Mevcut|	350 Mbps|4/10|	10:00 - 00:00|	@kafe_patika|	https://g.co/kgs/RKZL8Bi|	N/A
 
@@ -70,7 +74,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Çayyolu     | Arabica Coffee House       | Kafe        | İçerideki çoğu masada mevcut        | Mevcut | N/A       | 3/10             | 07:30 - 01:00    | @arabicaturkiye            | <https://maps.app.goo.gl/sNxPrwiwHdagg4Tw5>       | İç mekan çalışmak için ferah ve geniş. Koru metro istasyonuna 10 dk. mesafede, Arcadium AVM karşısında yer alıyor.                                                                       |
 | Yenimahalle | Arabica Astim Coffee House | Kafe        | Çoğu masada mevcut                  | Mevcut | N/A       | 2/10             | 07:30 - 00:00    | @arabicaturkiye            | <https://maps.app.goo.gl/2A6iRDza93LpTFGaA>       | Mekan 2 katlı olup üst kat çalışmak için ferah, geniş ve sessiz. Yanında market ve yemek yerleride bulunuyor.                                                                            |
 | Çankaya     | Colombia Coffee            | Kafe        | Çoğu masada mevcut                  | Mevcut | N/A       | 1/10             | 09:00 - 01:30    | @colombiacoffeetr          | <https://maps.app.goo.gl/tS72iRqxDjcdV3fPA>       | İç tarafta çalışmak için bir çok yer olduğu gibi camla ayrılmış sessiz çalışma odalarında da çalışmak mümkün.                                                                            |
-=======
+
 | Konum                             | İsim                 | Kategoriler | Priz                   | WIFI   | WIFI Hızı       | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi     | Harita                                                   | Notlar                       |
 | --------------------------------- | -------------------- | ----------- | ---------------------- | ------ | --------------- | ---------------- | ---------------- | -------------------- | -------------------------------------------------------- | ---------------------------- |
 | Bostanlı İskele                   | Varuna Gezgin        | N/A         | Çoğu masada mevcut     | Mevcut | 40 Mbps         | 5/10             | 09:00 - 01:00    | @varunagezgin        | N/A                                                      | N/A                          |

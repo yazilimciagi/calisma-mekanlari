@@ -36,6 +36,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Narlıdere - DEU GSF Karşısı       | Pablo Artisan Kafe | N/A         | Duvar kenarı masalarda | Mevcut | 50 Mbps    | 2/10             | 09:00 - 21:00    | @pabloartisancoffee | N/A                                                  | N/A    |
 | Kıbrıs Şehitleri - Sevinç Karşısı | Starbucks          | N/A         | Çoğu masada mevcut     | Mevcut | 10-25 Mbps | 7/10             | 08:00 - 22:00    | @starbucks_tr       | N/A                                                  | N/A    |
 | Kahramanlar - Alsancak            | Home Cafe and Hub  | N/A         | Çoğu masada mevcut     | Mevcut | 50-60 Mbps | 2/10             | 09:00 - 22:00    | @homecafetr         | [Google Maps](https://goo.gl/maps/8PYBZ4t4hSXHcAY26) | N/A    |
+|Alsancak Tekel Fabrikası | Kahve Dünyası | N/A | Teras harici mevcut | Mevcut | 15-20 Mpbs | 6/10 | 08:00 - 22.30 | @kahvedunyasi | [Google Maps](https://maps.app.goo.gl/2EfVSq9tpitRPAAz7) | N/A
 
 ## 📚 İstanbul
 
@@ -50,7 +51,9 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Suadiye                 | Espresso Park             | N/A         | Çoğu masada mevcut                    | Mevcut | 5-15 Mbps              | 2/10             | 09:00 - 22:00    | @espressoparktr     | <https://goo.gl/maps/2roAKvfeYGCb2TREA>     | N/A    |
 | İdealtepe               | NockNock Coffee           | N/A         | Çoğu masada mevcut                    | Mevcut | 10-25 Mbps             | 2/10             | 08:00 - 01:00    | @nocknockcoffee     | <https://goo.gl/maps/pmkm9sXtV26d5Uxa8>     | N/A    |
 | Kadıköy, Moda           | Yer                       | N/A         | Duvar kenarı masalarda mevcut         | Mevcut | 50 Mbps                | 5/10             | 09:30 - 01:30    | @yer_moda           | <https://goo.gl/maps/VHvCtJdu84PHyu3y7>     | N/A    |
-| Kadıköy, Bağdat Caddesi | Mikel Coffee              | Yer         | Duvar kenarı masalarda mevcut         | Mevcut | D:100 Mbps / U:10 Mbps | 3/10             | 07:30 - 23:00    | @mikelcoffee_tr     | <https://maps.app.goo.gl/xK7WrTGA4fpPG7An9> | N/A    |
+| Kadıköy, Bağdat Caddesi | Mikel Coffee              | Yer         | Duvar kenarı masalarda mevcut         | Mevcut | D:100 Mbps / U:10 Mbps | 3/10             | 07:30 - 23:00    | @mikelcoffee_tr     | <https://maps.app.goo.gl/xK7WrTGA4fpPG7An9> | N/A   
+|Bahçelievler |	Patika Kafe|	N/A|	Çoğu masada mevcut|	Mevcut|	350 Mbps|4/10|	10:00 - 00:00|	@kafe_patika|	https://g.co/kgs/RKZL8Bi|	N/A
+
 
 ## 📚 Ankara
 

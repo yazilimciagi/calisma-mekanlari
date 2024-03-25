@@ -6,25 +6,21 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 * ➕ Eklemek istediğiniz mekanı `README.md` içinde yazınız.
 * 🔄 Sonra GitHub'a `dev` branchından pushlayıp `main` a merge request açınız.
 
-## Ekli Şehirler
+## Ekli Şehirler:
 
-- [Çalışma Mekanları](#çalışma-mekanları)
-  - [Ekli Şehirler](#ekli-şehirler)
-  - [Web UI](#web-ui)
-  - [📚 İzmir](#-i̇zmir)
-  - [📚 İstanbul](#-i̇stanbul)
-  - [📚 Ankara](#-ankara)
-  - [📚 Antalya](#-antalya)
-  - [📚 Bursa](#-bursa)
-  - [📚 Aydin](#-aydin)
-  - [📚 Manisa](#-manisa)
-  - [📚 Mersin](#-mersin)
-  - [📚 Isparta](#-isparta)
-  - [📚 Trabzon](#-trabzon)
-  - [📚 Afyonkarahisar](#-afyonkarahisar)
-  - [📚 Mugla](#-mugla)
-  - [📚 Sakarya](#-sakarya)
-
+- [Afyonkarahisar](#-afyonkarahisar)
+- [Antalya](#-antalya)
+- [Ankara](#-ankara)
+- [Aydın](#-aydin)
+- [Bursa](#-bursa)
+- [Isparta](#-isparta)
+- [İstanbul](#-i̇stanbul)
+- [İzmir](#-i̇zmir)
+- [Manisa](#-manisa)
+- [Mersin](#-mersin)
+- [Mugla](#-mugla)
+- [Sakarya](#-sakarya)
+- [Trabzon](#-trabzon)
 ## Web UI
 
 🌐 <https://calisma-mekanlari-app.vercel.app/>

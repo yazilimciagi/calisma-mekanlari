@@ -8,19 +8,22 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 
 ## Ekli Şehirler
 
-* [Afyonkarahisar](#-afyonkarahisar)
-* [Antalya](#-antalya)
-* [Ankara](#-ankara)
-* [Aydın](#-aydin)
-* [Bursa](#-bursa)
-* [Isparta](#-isparta)
-* [İstanbul](#-i̇stanbul)
-* [İzmir](#-i̇zmir)
-* [Manisa](#-manisa)
-* [Mersin](#-mersin)
-* [Mugla](#-mugla)
-* [Sakarya](#-sakarya)
-* [Trabzon](#-trabzon)
+- [Çalışma Mekanları](#çalışma-mekanları)
+  - [Ekli Şehirler](#ekli-şehirler)
+  - [Web UI](#web-ui)
+  - [📚 İzmir](#-i̇zmir)
+  - [📚 İstanbul](#-i̇stanbul)
+  - [📚 Ankara](#-ankara)
+  - [📚 Antalya](#-antalya)
+  - [📚 Bursa](#-bursa)
+  - [📚 Aydin](#-aydin)
+  - [📚 Manisa](#-manisa)
+  - [📚 Mersin](#-mersin)
+  - [📚 Isparta](#-isparta)
+  - [📚 Trabzon](#-trabzon)
+  - [📚 Afyonkarahisar](#-afyonkarahisar)
+  - [📚 Mugla](#-mugla)
+  - [📚 Sakarya](#-sakarya)
 
 ## Web UI
 
@@ -40,6 +43,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Bostanlı                          | Cortado Coffee       | N/A         | Çoğu masada mevcut     | Mevcut | 400-500 Mbps    | 9/10             | 10:00 - 01:00    | @cortadocoffeeizmirr | [Google Maps](https://maps.app.goo.gl/RebD3e68VgXDZ2bQ6) | 👨‍🎨 2D Sanat İle Tanışın |
 | Karşıyaka                         | Durock               | N/A         | Orta masalar hariç     | Mevcut | 300 Mbps (5GHz) | 8/10             | 13:00 - 02:00    | @durocksocialhouse   | [Google Maps](https://maps.app.goo.gl/T5kWkGL188DZJrtp9) | N/A                          |
 | Menderes                         | Brew Mood Coffe Tea               | N/A         | İçerideki masalarda mevcut     | Mevcut | 20-30 Mbps | 8/10             | 9:00 - 00:00    | N/A   | [Google Maps](https://maps.app.goo.gl/Abt3GxAuLD3RyZu47) | Kahveleri günü kurtarır, çok kötü değil. İç dekorasyon güzel ve temiz                          |
+|Alsancak Tekel Fabrikası | Kahve Dünyası | N/A | Teras harici mevcut | Mevcut | 15-20 Mpbs | 6/10 | 08:00 - 22.30 | @kahvedunyasi | [Google Maps](https://maps.app.goo.gl/2EfVSq9tpitRPAAz7)| N/A
 
 ## 📚 İstanbul
 
@@ -65,6 +69,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Caferağa                | Walter's Coffee Roastery     | Cafe        | Çoğu masada mevcut                       | Mevcut | N/A                    | 3/10             | 10:00 - 23:00    | @walterscoffee         | <https://maps.app.goo.gl/NRQZ7xNsFkX5rt6B9> | N/A    |
 | Beyoğlu                 | Türk Alman Kitabevi & Cafe   | Cafe        | Çoğu masada mevcut                       | Mevcut | N/A                    | 4/10             | 07:00 - 23:00    | @turkalmankitabevicafe | <https://maps.app.goo.gl/T2AsozoFMjyZngnd7> | N/A    |
 | Taksim                  | Straborn Coffee AKM Taksim   | Cafe        | Her masada mevcut                        | Mevcut | 100-150 Mbps           | 2/10             | 09:00 - 22:00    | @straborncoffee        | <https://maps.app.goo.gl/BjBNcPPjqnESKQiv6> | N/A    |
+|Bahçelievler |	Patika Kafe|	N/A|	Çoğu masada mevcut|	Mevcut|	350 Mbps|4/10|	10:00 - 00:00|	@kafe_patika|	https://g.co/kgs/RKZL8Bi|	N/A
 
 ## 📚 Ankara
 

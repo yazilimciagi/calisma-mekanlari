@@ -65,7 +65,9 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Caferağa                | Walter's Coffee Roastery     | Cafe        | Çoğu masada mevcut                       | Mevcut | N/A                    | 3/10             | 10:00 - 23:00    | @walterscoffee         | <https://maps.app.goo.gl/NRQZ7xNsFkX5rt6B9> | N/A    |
 | Beyoğlu                 | Türk Alman Kitabevi & Cafe   | Cafe        | Çoğu masada mevcut                       | Mevcut | N/A                    | 4/10             | 07:00 - 23:00    | @turkalmankitabevicafe | <https://maps.app.goo.gl/T2AsozoFMjyZngnd7> | N/A    |
 | Taksim                  | Straborn Coffee AKM Taksim   | Cafe        | Her masada mevcut                        | Mevcut | 100-150 Mbps           | 2/10             | 09:00 - 22:00    | @straborncoffee        | <https://maps.app.goo.gl/BjBNcPPjqnESKQiv6> | N/A    |
+| Kadıköy                  | Vogs Coffee   | Cafe        | Duvar kenarı masalarda mevcut                        | Mevcut | N/A           | 3/10             | 10:00 - 02:00    | @vogscoffee        | <https://maps.app.goo.gl/LUXtCpo95znPcvUN8> | N/A    |
 |Bahçelievler |	Patika Kafe|	N/A|	Çoğu masada mevcut|	Mevcut|	350 Mbps|4/10|	10:00 - 00:00|	@kafe_patika|	https://g.co/kgs/RKZL8Bi|	N/A
+
 
 ## 📚 Ankara
 
@@ -169,6 +171,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Koycegiz | Yuvarlakçay Topgözü Restaurant | Restaurant  | Az Masada Mevcut              | Mevcut | 10-20 Mbps | 4/10             | 10.00 - 00.00    | N/A                 | <https://goo.gl/maps/ihXgzcZi4c6SAjT19>     | N/A    |
 | Ortaca   | Coffee Zemata                  | Kahve       | İçeride Mevcut, Workspace Var | Mevcut | 0-10 Mbps  | 6/10             | 09.00 - 00.00    | N/A                 | <https://goo.gl/maps/9XBNmYgYXL9V5w3WA>     | N/A    |
 | Datça    | The Coffee Grinder             | Cafe        | Çalışma masaında mevcut       | Mevcut | N/A        | 3/10             | 08.00 - 00.00    | @coffeegrinderdatca | <https://maps.app.goo.gl/diHVG2mhRYoaX6cKA> | N/A    |
+| Menteşe  | HelloWork Coffee               | Cafe        | İçeride Mevcut, Workspace Var | Mevcut | 10-25 Mbps | 5/10             | 08.30 - 00.00    | @hellowork_coffee   | <https://maps.app.goo.gl/zSSLEtUqtTFMf3QC9> | N/A    |
 
 ## 📚 Sakarya
 

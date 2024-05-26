@@ -169,6 +169,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Koycegiz | Yuvarlakçay Topgözü Restaurant | Restaurant  | Az Masada Mevcut              | Mevcut | 10-20 Mbps | 4/10             | 10.00 - 00.00    | N/A                 | <https://goo.gl/maps/ihXgzcZi4c6SAjT19>     | N/A    |
 | Ortaca   | Coffee Zemata                  | Kahve       | İçeride Mevcut, Workspace Var | Mevcut | 0-10 Mbps  | 6/10             | 09.00 - 00.00    | N/A                 | <https://goo.gl/maps/9XBNmYgYXL9V5w3WA>     | N/A    |
 | Datça    | The Coffee Grinder             | Cafe        | Çalışma masaında mevcut       | Mevcut | N/A        | 3/10             | 08.00 - 00.00    | @coffeegrinderdatca | <https://maps.app.goo.gl/diHVG2mhRYoaX6cKA> | N/A    |
+| Menteşe  | HelloWork Coffee               | Cafe        | İçeride Mevcut, Workspace Var | Mevcut | 10-25 Mbps | 5/10             | 08.30 - 00.00    | @hellowork_coffee   | <https://maps.app.goo.gl/zSSLEtUqtTFMf3QC9> | N/A    |
 
 ## 📚 Sakarya
 
